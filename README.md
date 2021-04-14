@@ -38,6 +38,7 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 * 2021-AISTATS - Linear Models are Robust Optimal Under Strategic Behavior. [[Paper]](http://proceedings.mlr.press/v130/tang21a.html)
 * 2021-ArXiv - The importance of understanding instance-level noisy labels. [[Paper]](https://arxiv.org/pdf/2102.05336.pdf)
 * 2021-ArXiv - Clusterability as an Alternative to Anchor Points When Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2102.05291.pdf)[[Code]](https://github.com/zwzhu-d/HOC)
+* 2021-ArXiv - Exponentiated Gradient Reweighting for Robust Training Under Label Noise and Beyond. [[Paper]](https://arxiv.org/pdf/2104.01493.pdf)
 * 2021-ArXiv - Understanding the Interaction of Adversarial Training with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2102.03482.pdf)
 * 2021-ArXiv - Learning Noise Transition Matrix from Only Noisy Labels via Total Variation Regularization. [[Paper]](https://arxiv.org/pdf/2102.02414.pdf)[[Code]](https://github.com/YivanZhang/lio)
 * 2021-ArXiv - Learning from Noisy Labels via Dynamic Loss Thresholding. [[Paper]](https://arxiv.org/pdf/2104.02570.pdf)
