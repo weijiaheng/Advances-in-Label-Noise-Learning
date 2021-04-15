@@ -14,7 +14,7 @@
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 
 ### International Conference on Learning Representations (ICLR 2021)
-Conference date: Mon May 3rd through Fri the 7th
+Conference date: May 3, 2021 -- May 7, 2021
 
 * When Optimizing -Divergence is Robust with Label Noise. [[Paper]](https://openreview.net/pdf?id=WesiCoRVQ15)[[Code]](https://github.com/weijiaheng/Robust-f-divergence-measures) 
 * Learning with Instance-Dependent Label Noise: A Sample Sieve Approach. [[Paper]](https://openreview.net/pdf?id=2VXyy9mIyU3)[[Code]](https://github.com/haochenglouis/cores) 
@@ -25,6 +25,22 @@ Conference date: Mon May 3rd through Fri the 7th
 * How Does Mixup Help With Robustness and Generalization? [[Paper]](https://openreview.net/pdf?id=8yKEo06dKNo)
 * Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data. [[Paper]](https://openreview.net/pdf?id=rC8sJ4i6kaH)
 
+### IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021) -- Updating
+Conference date: Jun 19, 2021 -- Jun 25, 2021
+
+* A Second-Order Approach to Learning with Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.11854)[[Code]](https://github.com/UCSC-REAL/CAL)
+* Improving Unsupervised Image Clustering With Robust Learning. [[Paper]](https://arxiv.org/abs/2012.11150)
+* Multi-Objective Interpolation Training for Robustness to Label Noise. [[Paper]](https://arxiv.org/abs/2012.04462)[[Code]](https://git.io/JI40X)
+* Noise-resistant Deep Metric Learning with Ranking-based Instance Selection. [[Paper]](https://arxiv.org/abs/2103.16047)[[Code]](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)
+* Augmentation Strategies for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2103.02130)[[Code]](https://github.com/KentoNishi/Augmentation-for-LNL)
+* Jo-SRC: A Contrastive Approach for Combating Noisy Labels. [[Paper]](https://arxiv.org/pdf/2103.13029.pdf)[[Code]](https://github.com/NUST-Machine-Intelligence-Laboratory/Jo-SRC)
+
+### Artificial Intelligence and Statistics (AISTATS 2021)
+Conference date: Apr 13, 2021 -- Apr 15, 2021
+
+* Collaborative Classification from Noisy Labels. [[Paper]](http://proceedings.mlr.press/v130/maystre21a.html)
+* Linear Models are Robust Optimal Under Strategic Behavior. [[Paper]](http://proceedings.mlr.press/v130/tang21a.html)
+
 ### AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE (AAAI 2021)
 * Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.05458)[[Code]](https://github.com/chenpf1025/IDN)
 * Learning to Purify Noisy Labels via Meta Soft Label Corrector. [[Paper]](https://arxiv.org/abs/2008.00627)[[Code]](https://github.com/WuYichen-97/Learning-to-Purify-Noisy-Labels-via-Meta-Soft-Label-Corrector)
@@ -34,18 +50,6 @@ Conference date: Mon May 3rd through Fri the 7th
 * Tackling Instance-Dependent Label Noise via a Universal Probabilistic Model. [[Paper]](https://niug1984.github.io/paper/wang_aaai21.pdf)
 * Learning with Group Noise. [[Paper]](https://gcatnjust.github.io/ChenGong/paper/wang_aaai21_2.pdf)
 * Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
-
-### IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021) -- Updating
-* A Second-Order Approach to Learning with Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.11854)[[Code]](https://github.com/UCSC-REAL/CAL)
-* Improving Unsupervised Image Clustering With Robust Learning. [[Paper]](https://arxiv.org/abs/2012.11150)
-* Multi-Objective Interpolation Training for Robustness to Label Noise. [[Paper]](https://arxiv.org/abs/2012.04462)[[Code]](https://git.io/JI40X)
-* Noise-resistant Deep Metric Learning with Ranking-based Instance Selection. [[Paper]](https://arxiv.org/abs/2103.16047)[[Code]](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)
-* Augmentation Strategies for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2103.02130)[[Code]](https://github.com/KentoNishi/Augmentation-for-LNL)
-* Jo-SRC: A Contrastive Approach for Combating Noisy Labels. [[Paper]](https://arxiv.org/pdf/2103.13029.pdf)[[Code]](https://github.com/NUST-Machine-Intelligence-Laboratory/Jo-SRC)
-
-### Artificial Intelligence and Statistics (AISTATS 2021)
-* Collaborative Classification from Noisy Labels. [[Paper]](http://proceedings.mlr.press/v130/maystre21a.html)
-* Linear Models are Robust Optimal Under Strategic Behavior. [[Paper]](http://proceedings.mlr.press/v130/tang21a.html)
 
 ### ArXiv 2021
 * The importance of understanding instance-level noisy labels. [[Paper]](https://arxiv.org/pdf/2102.05336.pdf)
