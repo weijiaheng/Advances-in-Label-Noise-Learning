@@ -14,6 +14,8 @@
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 
 ### International Conference on Learning Representations (ICLR 2021)
+Conference date: Mon May 3rd through Fri the 7th
+
 * When Optimizing -Divergence is Robust with Label Noise. [[Paper]](https://openreview.net/pdf?id=WesiCoRVQ15)[[Code]](https://github.com/weijiaheng/Robust-f-divergence-measures) 
 * Learning with Instance-Dependent Label Noise: A Sample Sieve Approach. [[Paper]](https://openreview.net/pdf?id=2VXyy9mIyU3)[[Code]](https://github.com/haochenglouis/cores) 
 * Noise against noise: stochastic label noise helps combat inherent label noise. [[Paper]](https://openreview.net/pdf?id=80FMcTSZ6J0)[[Code]](https://github.com/chenpf1025/SLN)
