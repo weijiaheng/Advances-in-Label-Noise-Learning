@@ -34,13 +34,13 @@ Conference date: Jun 19, 2021 -- Jun 25, 2021
 * Noise-resistant Deep Metric Learning with Ranking-based Instance Selection. [[Paper]](https://arxiv.org/abs/2103.16047)[[Code]](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)
 * Augmentation Strategies for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2103.02130)[[Code]](https://github.com/KentoNishi/Augmentation-for-LNL)
 * Jo-SRC: A Contrastive Approach for Combating Noisy Labels. [[Paper]](https://arxiv.org/pdf/2103.13029.pdf)[[Code]](https://github.com/NUST-Machine-Intelligence-Laboratory/Jo-SRC)
-
+-----
 ### Artificial Intelligence and Statistics (AISTATS 2021)
 Conference date: Apr 13, 2021 -- Apr 15, 2021
 
 * Collaborative Classification from Noisy Labels. [[Paper]](http://proceedings.mlr.press/v130/maystre21a.html)
 * Linear Models are Robust Optimal Under Strategic Behavior. [[Paper]](http://proceedings.mlr.press/v130/tang21a.html)
-
+-----
 ### AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE (AAAI 2021)
 * Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.05458)[[Code]](https://github.com/chenpf1025/IDN)
 * Learning to Purify Noisy Labels via Meta Soft Label Corrector. [[Paper]](https://arxiv.org/abs/2008.00627)[[Code]](https://github.com/WuYichen-97/Learning-to-Purify-Noisy-Labels-via-Meta-Soft-Label-Corrector)
@@ -50,7 +50,7 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * Tackling Instance-Dependent Label Noise via a Universal Probabilistic Model. [[Paper]](https://niug1984.github.io/paper/wang_aaai21.pdf)
 * Learning with Group Noise. [[Paper]](https://gcatnjust.github.io/ChenGong/paper/wang_aaai21_2.pdf)
 * Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
-
+-----
 ### ArXiv 2021
 * The importance of understanding instance-level noisy labels. [[Paper]](https://arxiv.org/pdf/2102.05336.pdf)
 * Clusterability as an Alternative to Anchor Points When Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2102.05291.pdf)[[Code]](https://github.com/zwzhu-d/HOC)
@@ -79,7 +79,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Friends and Foes in Learning from Noisy Labels. [[Paper]](https://arxiv.org/pdf/2103.15055.pdf)
 
 ## Papers & Code (2020--TODO)
-
+-----
 ### International Conference on Machine Learning (ICML 2020)
 * Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates. [[Paper]](http://proceedings.mlr.press/v119/liu20e)[[Code 1]](https://github.com/weijiaheng/Multi-class-Peer-Loss-functions) [[Code 2]](https://github.com/gohsyi/PeerLoss)
 * Normalized Loss Functions for Deep Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.13554)[[Code]](https://github.com/HanxunH/Active-Passive-Losses)
@@ -96,10 +96,11 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Learning with Multiple Complementary Labels. [[Paper]](http://proceedings.mlr.press/v119/feng20a.html)
 * Deep k-NN for Noisy Labels. [[Paper]](http://proceedings.mlr.press/v119/bahri20a.html)
 * Extreme Multi-label Classification from Aggregated Labels. [[Paper]](http://proceedings.mlr.press/v119/shen20f.html)
-
+-----
 ### ArXiv 2020
 * No Regret Sample Selection with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2003.03179.pdf)[[Code]](https://github.com/songheony/TAkS)
 * Meta Soft Label Generation for Noisy Labels. [[Paper]](https://arxiv.org/pdf/2007.05836.pdf)[[Code]](https://github.com/gorkemalgan/MSLG_noisy_label)
 * Learning from Noisy Labels with Deep Neural Networks: A Survey. [[Paper]](https://arxiv.org/pdf/2007.08199.pdf)
 * RAR-U-Net: a Residual Encoder to Attention Decoder by Residual Connections Framework for Spine Segmentation under Noisy Labels. [[Paper]](https://arxiv.org/pdf/2009.12873.pdf)
 * Learning from Small Amount of Medical Data with Noisy Labels: A Meta-Learning Approach. [[Paper]](https://arxiv.org/pdf/2010.06939.pdf)
+-----
