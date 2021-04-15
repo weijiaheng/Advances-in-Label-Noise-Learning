@@ -1,6 +1,6 @@
 # Learning-with-Noisy-Labels
 
-    A curated list of resources for Learning with Noisy Labels and few relevant papers about Weakly/Self Supervised Learning
+    A curated list of resources for Learning with Noisy Labels and a few relevant papers about Weakly/Self Supervised Learning
 
 ---
 
