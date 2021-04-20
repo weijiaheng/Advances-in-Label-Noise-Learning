@@ -42,6 +42,11 @@ Conference date: Jun 19, 2021 -- Jun 25, 2021
 * Noise-resistant Deep Metric Learning with Ranking-based Instance Selection. [[Paper]](https://arxiv.org/abs/2103.16047)[[Code]](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)
 * Augmentation Strategies for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2103.02130)[[Code]](https://github.com/KentoNishi/Augmentation-for-LNL)
 * Jo-SRC: A Contrastive Approach for Combating Noisy Labels. [[Paper]](https://arxiv.org/pdf/2103.13029.pdf)[[Code]](https://github.com/NUST-Machine-Intelligence-Laboratory/Jo-SRC)
+* Multi-Objective Interpolation Training for Robustness to Label Noise. [[Paper]](https://arxiv.org/abs/2012.04462)[[Code]](https://github.com/DiegoOrtego/LabelNoiseMOIT)
+* AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation. [[Paper]](https://arxiv.org/abs/2103.05863)[[Code]](https://github.com/gudovskiy/autodo)
+* Meta Pseudo Labels. [[Paper]](https://arxiv.org/pdf/2003.10580.pdf)[[Code]](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels)
+* All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training. [[Paper]](https://arxiv.org/abs/2104.05248)[[Code]](https://github.com/islam-nassar/semco)
+* SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification. [[Paper]](https://arxiv.org/abs/2103.16725)[[Code]](https://github.com/zijian-hu/SimPLE)
 -----
 ### Artificial Intelligence and Statistics (AISTATS 2021)
 Conference date: Apr 13, 2021 -- Apr 15, 2021
