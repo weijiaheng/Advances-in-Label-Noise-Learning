@@ -1,6 +1,6 @@
 # Learning-with-Noisy-Labels
 
-    A curated list of most recent works in Learning with Noisy Labels
+    A curated list of most recent papers & codes in Learning with Noisy Labels
 
 ---
 
