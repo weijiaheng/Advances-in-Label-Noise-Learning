@@ -125,8 +125,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 -----
 ### Neural Information Processing Systems (Nips 2020)
 * 2020-Nips - Part-dependent Label Noise: Towards Instance-dependent Label Noise. [[Paper]](https://papers.nips.cc/paper/2020/hash/5607fe8879e4fd269e88387e8cb30b7e-Abstract.html)[[Code]](https://github.com/xiaoboxia/Part-dependent-label-noise)
-* 2020-Nips - . [[Paper]]()[[Code]]()
-* 2020-Nips - . [[Paper]]()[[Code]]()
+* 2020-Nips - Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://papers.nips.cc/paper/2020/hash/c6102b3727b2a7d8b1bb6981147081ef-Abstract.html)[[Code]](https://github.com/asappresearch/aum)
 * 2020-Nips - Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning. [[Paper]](https://papers.nips.cc/paper/2020/hash/512c5cad6c37edb98ae91c8a76c3a291-Abstract.html)
 * 2020-Nips - Early-Learning Regularization Prevents Memorization of Noisy Labels. [[Paper]](https://papers.nips.cc/paper/2020/hash/ea89621bee7c88b2c5be6681c8ef4906-Abstract.html)[[Code]](https://github.com/shengliu66/ELR)
 * 2020-Nips - Coresets for Robust Training of Deep Neural Networks against Noisy Labels. [[Paper]](https://papers.nips.cc/paper/2020/hash/8493eeaccb772c0878f99d60a0bd2bb3-Abstract.html)[[Code]](https://github.com/snap-stanford/crust)
@@ -134,9 +133,6 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * 2020-Nips - Robust Optimization for Fairness with Noisy Protected Groups. [[Paper]](https://papers.nips.cc/paper/2020/hash/37d097caf1299d9aa79c2c2b843d2d78-Abstract.html)[[Code]](https://github.com/wenshuoguo/robust-fairness-code)
 * 2020-Nips - Stochastic Optimization with Heavy-Tailed Noise via Accelerated Gradient Clipping. [[Paper]](https://papers.nips.cc/paper/2020/hash/abd1c782880cc59759f4112fda0b8f98-Abstract.html)[[Code]](https://github.com/eduardgorbunov/accelerated_clipping)
 * 2020-Nips - A Topological Filter for Learning with Label Noise. [[Paper]](https://papers.nips.cc/paper/2020/hash/f4e3ce3e7b581ff32e40968298ba013d-Abstract.html)[[Code]](https://github.com/pxiangwu/TopoFilter)
-* 2020-Nips - . [[Paper]]()[[Code]]()
-* 2020-Nips - . [[Paper]]()[[Code]]()
-* 2020-Nips - . [[Paper]]()[[Code]]()
 * 2020-Nips - Non-Convex SGD Learns Halfspaces with Adversarial Label Noise. [[Paper]](https://papers.nips.cc/paper/2020/hash/d785bf9067f8af9e078b93cf26de2b54-Abstract.html)
 * 2020-Nips - Efficient active learning of sparse halfspaces with arbitrary bounded noise. [[Paper]](https://papers.nips.cc/paper/2020/hash/5034a5d62f91942d2a7aeaf527dfe111-Abstract.html)
 * 2020-Nips - Semi-Supervised Partial Label Learning via Confidence-Rated Margin Maximization. [[Paper]](https://papers.nips.cc/paper/2020/hash/4dea382d82666332fb564f2e711cbc71-Abstract.html)
@@ -144,6 +140,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * 2020-Nips - Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning. [[Paper]](https://papers.nips.cc/paper/2020/hash/a7968b4339a1b85b7dbdb362dc44f9c4-Abstract.html)[[Code]](https://github.com/bbuing9/DARP)
 * 2020-Nips - MetaPoison: Practical General-purpose Clean-label Data Poisoning. [[Paper]](https://papers.nips.cc/paper/2020/hash/8ce6fc704072e351679ac97d4a985574-Abstract.html)[[Code 1]](https://github.com/wronnyhuang/metapoison)[[Code 2]](https://github.com/JonasGeiping/poisoning-gradient-matching)
 * 2020-Nips - Provably Consistent Partial-Label Learning. [[Paper]](https://papers.nips.cc/paper/2020/hash/7bd28f15a49d5e5848d6ec70e584e625-Abstract.html)
+* 2020-Nips - A Variational Approach for Learning from Positive and Unlabeled Data. [[Paper]](https://papers.nips.cc/paper/2020/hash/aa0d2a804a3510442f2fd40f2100b054-Abstract.html)[[Code]](https://github.com/HC-Feynman/vpu)
 -----
 ### ArXiv 2020
 * No Regret Sample Selection with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2003.03179.pdf)[[Code]](https://github.com/songheony/TAkS)
