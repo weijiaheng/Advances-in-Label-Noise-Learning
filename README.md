@@ -80,6 +80,7 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation. [[Paper]](https://arxiv.org/pdf/2102.11614.pdf)
 * Transform consistency for learning with noisy labels. [[Paper]](https://arxiv.org/pdf/2103.13872.pdf)
 * Learning to Combat Noisy Labels via Classification Margins. [[Paper]](https://arxiv.org/pdf/2102.00751.pdf)
+* Joint Negative and Positive Learning for Noisy Labels. [[Paper]](https://arxiv.org/pdf/2104.06574.pdf)
 * Robust Classification from Noisy Labels: Integrating Additional Knowledge for Chest
 Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.pdf)
 * DST: Data Selection and joint Training for Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2103.00813.pdf)
