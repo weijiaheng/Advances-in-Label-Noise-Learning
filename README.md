@@ -112,6 +112,17 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Deep k-NN for Noisy Labels. [[Paper]](http://proceedings.mlr.press/v119/bahri20a.html)
 * Extreme Multi-label Classification from Aggregated Labels. [[Paper]](http://proceedings.mlr.press/v119/shen20f.html)
 -----
+### International Conference on Learning Representations (ICLR 2020)
+* 2020-ICLR - DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [[Paper]](https://openreview.net/forum?id=HJgExaVtwr)[[Code]](https://github.com/LiJunnan1992/DivideMix)
+* 2020-ICLR - Learning from Rules Generalizing Labeled Exemplars. [[Paper]](https://openreview.net/pdf?id=SkeuexBtDr) [[Code]](https://github.com/awasthiabhijeet/Learning-From-Rules)
+* 2020-ICLR - Robust training with ensemble consensus. [[Paper]](https://openreview.net/forum?id=ryxOUTVYDH)[[Code]](https://github.com/jisoolee0123/Robust-training-with-ensemble-consensus)
+* 2020-ICLR - Self-labelling via simultaneous clustering and representation learning. [[Paper]](https://openreview.net/forum?id=Hyx-jyBFPr)[[Code]](https://github.com/yukimasano/self-label)
+* 2020-ICLR - Can gradient clipping mitigate label noise? [[Paper]](https://openreview.net/forum?id=rklB76EKPr)[[Code]](https://github.com/dmizr/phuber)
+* 2020-ICLR - Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification. [[Paper]](https://openreview.net/forum?id=rJlnOhVYPS)[[Code]](https://github.com/yxgeee/MMT)
+* 2020-ICLR - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://openreview.net/forum?id=rkgt0REKwS)
+* 2020-ICLR - Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee. [[Paper]](https://openreview.net/forum?id=Hke3gyHYwH)
+* 2020-ICLR - SELF: Learning to Filter Noisy Labels with Self-Ensembling. [[Paper]](https://openreview.net/forum?id=HkgsPhNYPS)
+-----
 ### ArXiv 2020
 * No Regret Sample Selection with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2003.03179.pdf)[[Code]](https://github.com/songheony/TAkS)
 * Meta Soft Label Generation for Noisy Labels. [[Paper]](https://arxiv.org/pdf/2007.05836.pdf)[[Code]](https://github.com/gorkemalgan/MSLG_noisy_label)
