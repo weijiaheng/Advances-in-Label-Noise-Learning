@@ -7,8 +7,18 @@
 - Content
   - [Papers & Code in 2021](#papers--code-in-2021)
     - [ICLR 2021](#ICLR-2021)
+    - [CVPR 2021](#CVPR-2021)
+    - [AISTATS 2021](#AISTATS-2021)
+    - [AAAI 2021](#AAAI-2021)
+    - [ArXiv 2021](#ArXiv-2021)
   - [Papers & Code in 2020](#papers--code-in-2020)
-  
+    - [ICML 2020](#ICML-2020)
+    - [ICLR 2020](#ICLR-2020)
+    - [Nips 2020](#Nips-2020)
+    - [AAAI 2020](#AAAI-2020)
+    - [CVPR 2020](#CVPR-2020)
+    - [ECCV 2020](#ECCV-2020)
+    - [ArXiv 2020](#ArXiv-2020)
 ---
 
 ## Papers & Code in 2021
@@ -35,7 +45,7 @@ Conference date: May 3, 2021 -- May 7, 2021
 * Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data. [[Paper]](https://openreview.net/pdf?id=rC8sJ4i6kaH)
   - Poster Session 12: May 6, 2021, 5 p.m. -- May 6, 2021, 7 p.m. (PDT)
 -----
-### IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021) -- Updating
+### CVPR 2021
 Conference date: Jun 19, 2021 -- Jun 25, 2021
 
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) A Second-Order Approach to Learning with Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.11854)[[Code]](https://github.com/UCSC-REAL/CAL)
@@ -50,13 +60,13 @@ Conference date: Jun 19, 2021 -- Jun 25, 2021
 * All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training. [[Paper]](https://arxiv.org/abs/2104.05248)[[Code]](https://github.com/islam-nassar/semco)
 * SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification. [[Paper]](https://arxiv.org/abs/2103.16725)[[Code]](https://github.com/zijian-hu/SimPLE)
 -----
-### Artificial Intelligence and Statistics (AISTATS 2021)
+### AISTATS 2021
 Conference date: Apr 13, 2021 -- Apr 15, 2021
 
 * Collaborative Classification from Noisy Labels. [[Paper]](http://proceedings.mlr.press/v130/maystre21a.html)
 * Linear Models are Robust Optimal Under Strategic Behavior. [[Paper]](http://proceedings.mlr.press/v130/tang21a.html)
 -----
-### AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE (AAAI 2021)
+### AAAI 2021
 * Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.05458)[[Code]](https://github.com/chenpf1025/IDN)
 * Learning to Purify Noisy Labels via Meta Soft Label Corrector. [[Paper]](https://arxiv.org/abs/2008.00627)[[Code]](https://github.com/WuYichen-97/Learning-to-Purify-Noisy-Labels-via-Meta-Soft-Label-Corrector)
 * Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2012.04193)[[Code]](https://github.com/chenpf1025/RobustnessAccuracy)
@@ -98,7 +108,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 -----
 ## Papers & Code in 2020
 -----
-### International Conference on Machine Learning (ICML 2020)
+### ICML 2020
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates. [[Paper]](http://proceedings.mlr.press/v119/liu20e)[[Code 1]](https://github.com/weijiaheng/Multi-class-Peer-Loss-functions) [[Code 2]](https://github.com/gohsyi/PeerLoss)
 * Normalized Loss Functions for Deep Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.13554)[[Code]](https://github.com/HanxunH/Active-Passive-Losses)
 * SIGUA: Forgetting May Make Learning with Noisy Labels More Robust. [[Paper]](http://proceedings.mlr.press/v119/han20c.html)[[Code]](https://github.com/bhanML/SIGUA)
@@ -115,7 +125,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Deep k-NN for Noisy Labels. [[Paper]](http://proceedings.mlr.press/v119/bahri20a.html)
 * Extreme Multi-label Classification from Aggregated Labels. [[Paper]](http://proceedings.mlr.press/v119/shen20f.html)
 -----
-### International Conference on Learning Representations (ICLR 2020)
+### ICLR 2020
 * DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [[Paper]](https://openreview.net/forum?id=HJgExaVtwr)[[Code]](https://github.com/LiJunnan1992/DivideMix)
 * Learning from Rules Generalizing Labeled Exemplars. [[Paper]](https://openreview.net/pdf?id=SkeuexBtDr) [[Code]](https://github.com/awasthiabhijeet/Learning-From-Rules)
 * Robust training with ensemble consensus. [[Paper]](https://openreview.net/forum?id=ryxOUTVYDH)[[Code]](https://github.com/jisoolee0123/Robust-training-with-ensemble-consensus)
@@ -126,7 +136,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee. [[Paper]](https://openreview.net/forum?id=Hke3gyHYwH)
 * SELF: Learning to Filter Noisy Labels with Self-Ensembling. [[Paper]](https://openreview.net/forum?id=HkgsPhNYPS)
 -----
-### Neural Information Processing Systems (Nips 2020)
+### Nips 2020
 * Part-dependent Label Noise: Towards Instance-dependent Label Noise. [[Paper]](https://papers.nips.cc/paper/2020/hash/5607fe8879e4fd269e88387e8cb30b7e-Abstract.html)[[Code]](https://github.com/xiaoboxia/Part-dependent-label-noise)
 * Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://papers.nips.cc/paper/2020/hash/c6102b3727b2a7d8b1bb6981147081ef-Abstract.html)[[Code]](https://github.com/asappresearch/aum)
 * Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning. [[Paper]](https://papers.nips.cc/paper/2020/hash/512c5cad6c37edb98ae91c8a76c3a291-Abstract.html)
@@ -147,7 +157,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Provably Consistent Partial-Label Learning. [[Paper]](https://papers.nips.cc/paper/2020/hash/7bd28f15a49d5e5848d6ec70e584e625-Abstract.html)
 * A Variational Approach for Learning from Positive and Unlabeled Data. [[Paper]](https://papers.nips.cc/paper/2020/hash/aa0d2a804a3510442f2fd40f2100b054-Abstract.html)[[Code]](https://github.com/HC-Feynman/vpu)
 -----
-### AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE (AAAI 2020)
+### AAAI 2020
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Reinforcement Learning with Perturbed Rewards. [[Paper]](https://arxiv.org/abs/1810.01032) [[Code]](https://github.com/wangjksjtu/rl-perturbed-reward)
 * Less Is Better: Unweighted Data Subsampling via Influence Function. [[Paper]](https://arxiv.org/abs/1912.01321) [[Code]](https://github.com/RyanWangZf/Influence_Subsampling)
 * Weakly Supervised Sequence Tagging from Noisy Rules. [[Paper]](https://ojs.aaai.org//index.php/AAAI/article/view/6009)[[Code]](https://github.com/BatsResearch/wiser)
@@ -156,7 +166,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Self-Paced Robust Learning for Leveraging Clean Labels in Noisy Data. [[Paper]](https://xuczhang.github.io/papers/aaai20_sprl.pdf)
 * Label Error Correction and Generation Through Label Relationships. [[Paper]](https://ojs.aaai.org//index.php/AAAI/article/view/5778)
 -----
-### IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020)
+### CVPR 2020
 * Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Wei_Combating_Noisy_Labels_by_Agreement_A_Joint_Training_Method_with_CVPR_2020_paper.html)[[Code]](https://github.com/hongxin001/JoCoR)
 * Distilling Effective Supervision From Severe Label Noise. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html)[[Code]](https://github.com/google-research/google-research/tree/master/ieg)
 * Self-Training With Noisy Student Improves ImageNet Classification. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html)[[Code]](https://github.com/google-research/noisystudent)
@@ -171,7 +181,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Generating Accurate Pseudo-Labels in Semi-Supervised Learning and Avoiding Overconfident Predictions via Hermite Polynomial Activations. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Lokhande_Generating_Accurate_Pseudo-Labels_in_Semi-Supervised_Learning_and_Avoiding_Overconfident_Predictions_CVPR_2020_paper.html)[[Code]](https://github.com/lokhande-vishnu/DeepHermites)
 * Revisiting Knowledge Distillation via Label Smoothing Regularization. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yuan_Revisiting_Knowledge_Distillation_via_Label_Smoothing_Regularization_CVPR_2020_paper.html)[[Code]](https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation)
 -----
-### European Conference on Computer Vision (ECCV 2020)
+### ECCV 2020
 * 2020-ECCV - Learning with Noisy Class Labels for Instance Segmentation. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2062_ECCV_2020_paper.php)[[Code]](https://github.com/longrongyang/LNCIS)
 * 2020-ECCV - Suppressing Mislabeled Data via Grouping and Self-Attention. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2633_ECCV_2020_paper.php)[[Code]](https://github.com/kaiwang960112/AFM)
 * 2020-ECCV - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5921_ECCV_2020_paper.php)
