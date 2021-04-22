@@ -161,7 +161,12 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Revisiting Knowledge Distillation via Label Smoothing Regularization. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yuan_Revisiting_Knowledge_Distillation_via_Label_Smoothing_Regularization_CVPR_2020_paper.html)[[Code]](https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation)
 -----
 ### European Conference on Computer Vision (ECCV 2020)
-* 2020-ECCV - . [[Paper]]()[[Code]]()
+* 2020-ECCV - Learning with Noisy Class Labels for Instance Segmentation. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2062_ECCV_2020_paper.php)[[Code]](https://github.com/longrongyang/LNCIS)
+* 2020-ECCV - Suppressing Mislabeled Data via Grouping and Self-Attention. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2633_ECCV_2020_paper.php)[[Code]](https://github.com/kaiwang960112/AFM)
+* 2020-ECCV - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5921_ECCV_2020_paper.php)
+* 2020-ECCV - Weakly Supervised Learning with Side Information for Noisy Labeled Images. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/7467_ECCV_2020_paper.php)
+* 2020-ECCV - Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2760_ECCV_2020_paper.php)
+* 2020-ECCV - Graph convolutional networks for learning with few clean and many noisy labels. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1060_ECCV_2020_paper.php)
 -----
 ### ArXiv 2020
 * No Regret Sample Selection with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2003.03179.pdf)[[Code]](https://github.com/songheony/TAkS)
