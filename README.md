@@ -5,12 +5,12 @@
 ---
 
 - Content
-  - [Papers & Code (2021)](#papers--code-(2021))
-  - [Papers & Code (2020)](#papers--code-(2020))
+  - [Papers & Code in 2021](#papers--code-in-2021)
+  - [Papers & Code in 2020](#papers--code-in-2020)
   
 ---
 
-## Papers & Code (2021)
+## Papers & Code in 2021
 
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 
@@ -95,7 +95,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * CrowdTeacher: Robust Co-teaching with Noisy Answers & Sample-specific Perturbations for Tabular Data. [[Paper]](https://arxiv.org/pdf/2103.17144.pdf)
 * Friends and Foes in Learning from Noisy Labels. [[Paper]](https://arxiv.org/pdf/2103.15055.pdf)
 -----
-## Papers & Code (2020)
+## Papers & Code in 2020
 -----
 ### International Conference on Machine Learning (ICML 2020)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates. [[Paper]](http://proceedings.mlr.press/v119/liu20e)[[Code 1]](https://github.com/weijiaheng/Multi-class-Peer-Loss-functions) [[Code 2]](https://github.com/gohsyi/PeerLoss)
