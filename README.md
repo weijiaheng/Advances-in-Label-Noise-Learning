@@ -16,7 +16,7 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 ### International Conference on Learning Representations (ICLR 2021)
 Conference date: May 3, 2021 -- May 7, 2021
 
-* When Optimizing f-Divergence is Robust with Label Noise. [[Paper]](https://openreview.net/pdf?id=WesiCoRVQ15)[[Code]](https://github.com/weijiaheng/Robust-f-divergence-measures) 
+* When Optimizing f-Divergence is Robust with Label Noise [a work in our lab!]. [[Paper]](https://openreview.net/pdf?id=WesiCoRVQ15)[[Code]](https://github.com/weijiaheng/Robust-f-divergence-measures) 
   - Poster Session 3: May 3, 2021, 5 p.m. -- May 3, 2021, 7 p.m. (PDT)
 * Learning with Instance-Dependent Label Noise: A Sample Sieve Approach. [[Paper]](https://openreview.net/pdf?id=2VXyy9mIyU3)[[Code]](https://github.com/haochenglouis/cores) 
   - Poster Session 9: May 5, 2021, 5 p.m. -- May 5, 2021, 7 p.m. (PDT)
