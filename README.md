@@ -6,6 +6,7 @@
 
 - Content
   - [Papers & Code in 2021](#papers--code-in-2021)
+    - [ICLR 2021](#ICLR-2021)
   - [Papers & Code in 2020](#papers--code-in-2020)
   
 ---
@@ -14,7 +15,7 @@
 
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 
-### International Conference on Learning Representations (ICLR 2021)
+### ICLR 2021
 Conference date: May 3, 2021 -- May 7, 2021
 
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) When Optimizing f-Divergence is Robust with Label Noise. [[Paper]](https://openreview.net/pdf?id=WesiCoRVQ15)[[Code]](https://github.com/weijiaheng/Robust-f-divergence-measures) 
