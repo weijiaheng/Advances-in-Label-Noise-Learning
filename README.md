@@ -16,9 +16,9 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 ### International Conference on Learning Representations (ICLR 2021)
 Conference date: May 3, 2021 -- May 7, 2021
 
-* When Optimizing f-Divergence is Robust with Label Noise [a work in our lab!]. [[Paper]](https://openreview.net/pdf?id=WesiCoRVQ15)[[Code]](https://github.com/weijiaheng/Robust-f-divergence-measures) 
+* [UCSC REAL] When Optimizing f-Divergence is Robust with Label Noise. [[Paper]](https://openreview.net/pdf?id=WesiCoRVQ15)[[Code]](https://github.com/weijiaheng/Robust-f-divergence-measures) 
   - Poster Session 3: May 3, 2021, 5 p.m. -- May 3, 2021, 7 p.m. (PDT)
-* Learning with Instance-Dependent Label Noise: A Sample Sieve Approach. [[Paper]](https://openreview.net/pdf?id=2VXyy9mIyU3)[[Code]](https://github.com/haochenglouis/cores) 
+* [UCSC REAL] Learning with Instance-Dependent Label Noise: A Sample Sieve Approach. [[Paper]](https://openreview.net/pdf?id=2VXyy9mIyU3)[[Code]](https://github.com/haochenglouis/cores) 
   - Poster Session 9: May 5, 2021, 5 p.m. -- May 5, 2021, 7 p.m. (PDT)
 * Noise against noise: stochastic label noise helps combat inherent label noise. [[Paper]](https://openreview.net/pdf?id=80FMcTSZ6J0)[[Code]](https://github.com/chenpf1025/SLN)
   - Poster Session 1: May 3, 2021, 1 a.m. -- May 3, 2021, 3 a.m. (PDT)
@@ -36,7 +36,7 @@ Conference date: May 3, 2021 -- May 7, 2021
 ### IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021) -- Updating
 Conference date: Jun 19, 2021 -- Jun 25, 2021
 
-* A Second-Order Approach to Learning with Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.11854)[[Code]](https://github.com/UCSC-REAL/CAL)
+* [UCSC REAL] A Second-Order Approach to Learning with Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.11854)[[Code]](https://github.com/UCSC-REAL/CAL)
 * Improving Unsupervised Image Clustering With Robust Learning. [[Paper]](https://arxiv.org/abs/2012.11150)
 * Multi-Objective Interpolation Training for Robustness to Label Noise. [[Paper]](https://arxiv.org/abs/2012.04462)[[Code]](https://git.io/JI40X)
 * Noise-resistant Deep Metric Learning with Ranking-based Instance Selection. [[Paper]](https://arxiv.org/abs/2103.16047)[[Code]](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)
@@ -65,8 +65,8 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
 -----
 ### ArXiv 2021
-* The importance of understanding instance-level noisy labels. [[Paper]](https://arxiv.org/pdf/2102.05336.pdf)
-* Clusterability as an Alternative to Anchor Points When Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2102.05291.pdf)[[Code]](https://github.com/zwzhu-d/HOC)
+* [UCSC REAL] The importance of understanding instance-level noisy labels. [[Paper]](https://arxiv.org/pdf/2102.05336.pdf)
+* [UCSC REAL] Clusterability as an Alternative to Anchor Points When Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2102.05291.pdf)[[Code]](https://github.com/zwzhu-d/HOC)
 * A Theoretical Analysis of Learning with Noisily Labeled Data. [[Paper]](https://arxiv.org/abs/2104.04114)
 * A Survey of Label-noise Representation Learning: Past, Present and Future. [[Paper]](https://arxiv.org/pdf/2011.04406.pdf)
 * Learning Noise Transition Matrix from Only Noisy Labels via Total Variation Regularization. [[Paper]](https://arxiv.org/pdf/2102.02414.pdf)[[Code]](https://github.com/YivanZhang/lio)
@@ -97,7 +97,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 ## Papers & Code (2020)
 -----
 ### International Conference on Machine Learning (ICML 2020)
-* Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates. [[Paper]](http://proceedings.mlr.press/v119/liu20e)[[Code 1]](https://github.com/weijiaheng/Multi-class-Peer-Loss-functions) [[Code 2]](https://github.com/gohsyi/PeerLoss)
+* [UCSC REAL] Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates. [[Paper]](http://proceedings.mlr.press/v119/liu20e)[[Code 1]](https://github.com/weijiaheng/Multi-class-Peer-Loss-functions) [[Code 2]](https://github.com/gohsyi/PeerLoss)
 * Normalized Loss Functions for Deep Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.13554)[[Code]](https://github.com/HanxunH/Active-Passive-Losses)
 * SIGUA: Forgetting May Make Learning with Noisy Labels More Robust. [[Paper]](http://proceedings.mlr.press/v119/han20c.html)[[Code]](https://github.com/bhanML/SIGUA)
 * Error-Bounded Correction of Noisy Labels. [[Paper]](http://proceedings.mlr.press/v119/zheng20c.html)[[Code]](https://github.com/pingqingsheng/LRT)
