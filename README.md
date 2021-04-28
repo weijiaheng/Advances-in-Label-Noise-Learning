@@ -106,7 +106,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * CrowdTeacher: Robust Co-teaching with Noisy Answers & Sample-specific Perturbations for Tabular Data. [[Paper]](https://arxiv.org/pdf/2103.17144.pdf)
 * Friends and Foes in Learning from Noisy Labels. [[Paper]](https://arxiv.org/pdf/2103.15055.pdf)
 * Learning from Noisy Labels for Entity-Centric Information Extraction. [[Paper]](https://arxiv.org/pdf/2104.08656.pdf)
-* A FRAMEWORK USING CONTRASTIVE LEARNING FOR CLASSIFICATION WITH NOISY LABELS. [[Paper]](https://arxiv.org/pdf/2104.09563.pdf)
+* A Fremework Using Contrastive Learning for Classification with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2104.09563.pdf)
 * Contrastive Learning Improves Model Robustness Under Label Noise. [[Paper]](https://arxiv.org/pdf/2104.08984.pdf)[[Code]](https://github.com/arghosh/noisy_label_pretrain)
 -----
 ## Papers & Code in 2020
