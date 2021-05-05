@@ -38,6 +38,8 @@ Conference date: May 3, 2021 -- May 7, 2021
   - Poster Session 9: May 5, 2021, 5 p.m. -- May 5, 2021, 7 p.m. (PDT)
 * Robust early-learning: Hindering the memorization of noisy labels. [[Paper]](https://openreview.net/pdf?id=Eql5b1_hTE4)[[Code]](https://github.com/xiaoboxia/CDR)
   - Poster Session 11: May 6, 2021, 9 a.m. -- May 6, 2021, 11 a.m. (PDT)
+* MoPro: Webly Supervised Learning with Momentum Prototypes. [[Paper]](https://openreview.net/forum?id=0-EYBhgw80y) [[Code]](https://github.com/salesforce/MoPro) 
+  - Poster Session 3: May 3, 2021, 5 p.m. -- May 3, 2021, 7 p.m. (PDT)
 * Robust Curriculum Learning: from clean label detection to noisy label self-correction. [[Paper]](https://openreview.net/pdf?id=lmTWnm3coJJ)
   - Poster Session 3: May 3, 2021, 5 p.m. -- May 3, 2021, 7 p.m. (PDT)
 * How Does Mixup Help With Robustness and Generalization? [[Paper]](https://openreview.net/pdf?id=8yKEo06dKNo)
