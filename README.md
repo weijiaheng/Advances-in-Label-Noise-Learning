@@ -6,6 +6,7 @@
 
 - Content
   - [Papers & Code in 2021](#papers--code-in-2021)
+    - [ICML 2021](#ICML-2021)
     - [ICLR 2021](#ICLR-2021)
     - [CVPR 2021](#CVPR-2021)
     - [AISTATS 2021](#AISTATS-2021)
@@ -25,6 +26,11 @@
 
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 
+### ICML 2021
+
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) The importance of understanding instance-level noisy labels. [[Paper]](https://arxiv.org/pdf/2102.05336.pdf)
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Clusterability as an Alternative to Anchor Points When Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2102.05291.pdf)[[Code]](https://github.com/zwzhu-d/HOC)
+-----
 ### ICLR 2021
 Conference date: May 3, 2021 -- May 7, 2021
 
@@ -70,8 +76,6 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
 -----
 ### ArXiv 2021
-* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) The importance of understanding instance-level noisy labels. [[Paper]](https://arxiv.org/pdf/2102.05336.pdf)
-* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Clusterability as an Alternative to Anchor Points When Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2102.05291.pdf)[[Code]](https://github.com/zwzhu-d/HOC)
 * A Theoretical Analysis of Learning with Noisily Labeled Data. [[Paper]](https://arxiv.org/abs/2104.04114)
 * A Survey of Label-noise Representation Learning: Past, Present and Future. [[Paper]](https://arxiv.org/pdf/2011.04406.pdf)
 * Learning Noise Transition Matrix from Only Noisy Labels via Total Variation Regularization. [[Paper]](https://arxiv.org/pdf/2102.02414.pdf)[[Code]](https://github.com/YivanZhang/lio)
