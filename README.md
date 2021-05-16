@@ -29,23 +29,14 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 Conference date: May 3, 2021 -- May 7, 2021
 
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) When Optimizing f-Divergence is Robust with Label Noise. [[Paper]](https://openreview.net/pdf?id=WesiCoRVQ15)[[Code]](https://github.com/weijiaheng/Robust-f-divergence-measures) 
-  - Poster Session 3: May 3, 2021, 5 p.m. -- May 3, 2021, 7 p.m. (PDT)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Learning with Instance-Dependent Label Noise: A Sample Sieve Approach. [[Paper]](https://openreview.net/pdf?id=2VXyy9mIyU3)[[Code]](https://github.com/haochenglouis/cores) 
-  - Poster Session 9: May 5, 2021, 5 p.m. -- May 5, 2021, 7 p.m. (PDT)
 * Noise against noise: stochastic label noise helps combat inherent label noise. [[Paper]](https://openreview.net/pdf?id=80FMcTSZ6J0)[[Code]](https://github.com/chenpf1025/SLN)
-  - Poster Session 1: May 3, 2021, 1 a.m. -- May 3, 2021, 3 a.m. (PDT)
 * Learning with Feature-Dependent Label Noise: A Progressive Approach. [[Paper]](https://openreview.net/pdf?id=ZPa2SyGcbwh)[[Code]](https://github.com/pxiangwu/PLC)
-  - Poster Session 9: May 5, 2021, 5 p.m. -- May 5, 2021, 7 p.m. (PDT)
 * Robust early-learning: Hindering the memorization of noisy labels. [[Paper]](https://openreview.net/pdf?id=Eql5b1_hTE4)[[Code]](https://github.com/xiaoboxia/CDR)
-  - Poster Session 11: May 6, 2021, 9 a.m. -- May 6, 2021, 11 a.m. (PDT)
 * MoPro: Webly Supervised Learning with Momentum Prototypes. [[Paper]](https://openreview.net/forum?id=0-EYBhgw80y) [[Code]](https://github.com/salesforce/MoPro) 
-  - Poster Session 3: May 3, 2021, 5 p.m. -- May 3, 2021, 7 p.m. (PDT)
 * Robust Curriculum Learning: from clean label detection to noisy label self-correction. [[Paper]](https://openreview.net/pdf?id=lmTWnm3coJJ)
-  - Poster Session 3: May 3, 2021, 5 p.m. -- May 3, 2021, 7 p.m. (PDT)
 * How Does Mixup Help With Robustness and Generalization? [[Paper]](https://openreview.net/pdf?id=8yKEo06dKNo)
-  - Poster Session 8: May 5, 2021, 9 a.m. -- May 5, 2021, 11 a.m. (PDT)
 * Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data. [[Paper]](https://openreview.net/pdf?id=rC8sJ4i6kaH)
-  - Poster Session 12: May 6, 2021, 5 p.m. -- May 6, 2021, 7 p.m. (PDT)
 -----
 ### CVPR 2021
 Conference date: Jun 19, 2021 -- Jun 25, 2021
