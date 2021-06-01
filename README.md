@@ -76,6 +76,7 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
 -----
 ### ArXiv 2021
+* Estimating Instance-dependent Label-noise Transition Matrix using DNNs. [[Paper]](https://arxiv.org/abs/2105.13001)
 * A Theoretical Analysis of Learning with Noisily Labeled Data. [[Paper]](https://arxiv.org/abs/2104.04114)
 * A Survey of Label-noise Representation Learning: Past, Present and Future. [[Paper]](https://arxiv.org/pdf/2011.04406.pdf)
 * Learning Noise Transition Matrix from Only Noisy Labels via Total Variation Regularization. [[Paper]](https://arxiv.org/pdf/2102.02414.pdf)[[Code]](https://github.com/YivanZhang/lio)
