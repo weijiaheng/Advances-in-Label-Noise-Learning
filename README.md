@@ -27,12 +27,19 @@
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 
 ### ICML 2021
+Conference date: May 3, 2021 -- May 7, 2021
 
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) The importance of understanding instance-level noisy labels. [[Paper]](https://arxiv.org/pdf/2102.05336.pdf)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Clusterability as an Alternative to Anchor Points When Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2102.05291.pdf)[[Code]](https://github.com/zwzhu-d/HOC)
+* Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision. [[Paper]](https://arxiv.org/pdf/2102.05918v2.pdf)[[Code]](https://github.com/MicPie/clasp)
+* Learning Noise Transition Matrix from Only Noisy Labels via Total Variation Regularization. [[Paper]](https://arxiv.org/pdf/2102.02414v2.pdf)[[Code]](https://github.com/YivanZhang/lio)
+* Class2Simi: A Noise Reduction Perspective on Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.07831)
+* Provably End-to-end Label-noise Learning without Anchor Points. [[Paper]](https://arxiv.org/pdf/2102.02400.pdf)
+* Asymmetric Loss Functions for Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2106.03110v1.pdf)[[Code]](https://github.com/hitcszx/ALFs)
+* Confidence Scores Make Instance-dependent Label-noise Learning Possible. [[Paper]](https://arxiv.org/abs/2001.03772) 
+* Provable Generalization of SGD-trained Neural Networks of Any Width in the Presence of Adversarial Label Noise. [[Paper]](https://arxiv.org/abs/2101.01152)
 -----
 ### ICLR 2021
-Conference date: May 3, 2021 -- May 7, 2021
 
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) When Optimizing f-Divergence is Robust with Label Noise. [[Paper]](https://openreview.net/pdf?id=WesiCoRVQ15)[[Code]](https://github.com/weijiaheng/Robust-f-divergence-measures) 
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Learning with Instance-Dependent Label Noise: A Sample Sieve Approach. [[Paper]](https://openreview.net/pdf?id=2VXyy9mIyU3)[[Code]](https://github.com/haochenglouis/cores) 
