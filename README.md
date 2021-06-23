@@ -27,7 +27,7 @@
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 
 ### ICML 2021
-Conference date: May 3, 2021 -- May 7, 2021
+Conference date: Jul 18, 2021 -- Jul 24, 2021
 
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) The importance of understanding instance-level noisy labels. [[Paper]](https://arxiv.org/pdf/2102.05336.pdf)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Clusterability as an Alternative to Anchor Points When Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2102.05291.pdf)[[Code]](https://github.com/zwzhu-d/HOC)
