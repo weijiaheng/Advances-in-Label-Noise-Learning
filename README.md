@@ -38,6 +38,8 @@ Conference date: Jul 18, 2021 -- Jul 24, 2021
 * Asymmetric Loss Functions for Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2106.03110v1.pdf)[[Code]](https://github.com/hitcszx/ALFs)
 * Confidence Scores Make Instance-dependent Label-noise Learning Possible. [[Paper]](https://arxiv.org/abs/2001.03772) 
 * Provable Generalization of SGD-trained Neural Networks of Any Width in the Presence of Adversarial Label Noise. [[Paper]](https://arxiv.org/abs/2101.01152)
+* Wasserstein Distributional Normalization For Robust Distributional Certification of Noisy Labeled Data. [[Paper]](http://proceedings.mlr.press/v139/park21a/park21a.pdf)
+* Learning from Noisy Labels with No Change to the Training Process. [[Paper]](http://proceedings.mlr.press/v139/zhang21k/zhang21k.pdf)
 -----
 ### ICLR 2021
 
