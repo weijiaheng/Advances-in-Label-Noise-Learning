@@ -130,6 +130,11 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * A Fremework Using Contrastive Learning for Classification with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2104.09563.pdf)
 * Contrastive Learning Improves Model Robustness Under Label Noise. [[Paper]](https://arxiv.org/pdf/2104.08984.pdf)[[Code]](https://github.com/arghosh/noisy_label_pretrain)
 * Noise-Resistant Deep Metric Learning with Probabilistic Instance Filtering. [[Paper]](https://arxiv.org/pdf/2108.01431.pdf)
+* Compensation Learning. [[Paper]](https://arxiv.org/pdf/2107.11921.pdf)
+* kNet: A Deep kNN Network To Handle Label Noise. [[Paper]](https://arxiv.org/pdf/2107.09735.pdf)
+* Temporal-aware Language Representation Learning From Crowdsourced Labels. [[Paper]](https://arxiv.org/pdf/2107.07958.pdf)
+* Memorization in Deep Neural Networks: Does the Loss Function matter?. [[Paper]](https://arxiv.org/pdf/2107.09957.pdf)
+* Mitigating Memorization in Sample Selection for Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2107.07041.pdf)
 * P-DIFF: Learning Classifier with Noisy Labels based on Probability Difference Distributions. [[Paper]](https://arxiv.org/abs/2009.06382)[[Code]](https://github.com/fistyee/P-DIFF)
 -----
 ## Papers & Code in 2020
