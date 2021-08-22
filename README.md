@@ -136,6 +136,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Memorization in Deep Neural Networks: Does the Loss Function matter?. [[Paper]](https://arxiv.org/pdf/2107.09957.pdf)
 * Mitigating Memorization in Sample Selection for Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2107.07041.pdf)
 * P-DIFF: Learning Classifier with Noisy Labels based on Probability Difference Distributions. [[Paper]](https://arxiv.org/abs/2009.06382)[[Code]](https://github.com/fistyee/P-DIFF)
+* Decoupling Representation and Classifier for Noisy Label Learning. [[Paper]](https://arxiv.org/pdf/2011.08145.pdf)
 -----
 ## Papers & Code in 2020
 -----
