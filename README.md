@@ -138,6 +138,9 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * P-DIFF: Learning Classifier with Noisy Labels based on Probability Difference Distributions. [[Paper]](https://arxiv.org/abs/2009.06382)[[Code]](https://github.com/fistyee/P-DIFF)
 * Decoupling Representation and Classifier for Noisy Label Learning. [[Paper]](https://arxiv.org/pdf/2011.08145.pdf)
 * Contrastive Representations for Label Noise Require Fine-Tuning. [[Paper]](https://arxiv.org/pdf/2108.09154.pdf)
+* NGC: A Unified Framework for Learning with Open-World Noisy Data. [[Paper]](https://arxiv.org/pdf/2108.11035.pdf)
+* Learning From Long-Tailed Data With Noisy Labels. [[Paper]](https://arxiv.org/pdf/2108.11096.pdf)
+* Robust Long-Tailed Learning Under Label Noise. [[Paper]](https://arxiv.org/pdf/2108.11569.pdf)
 -----
 ## Papers & Code in 2020
 -----
