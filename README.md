@@ -141,6 +141,7 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * NGC: A Unified Framework for Learning with Open-World Noisy Data. [[Paper]](https://arxiv.org/pdf/2108.11035.pdf)
 * Learning From Long-Tailed Data With Noisy Labels. [[Paper]](https://arxiv.org/pdf/2108.11096.pdf)
 * Robust Long-Tailed Learning Under Label Noise. [[Paper]](https://arxiv.org/pdf/2108.11569.pdf)
+* Instance-dependent Label-noise Learning under a Structural Causal Model. [[Paper]](https://arxiv.org/pdf/2109.02986.pdf)
 -----
 ## Papers & Code in 2020
 -----
