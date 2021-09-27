@@ -143,6 +143,8 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Robust Long-Tailed Learning Under Label Noise. [[Paper]](https://arxiv.org/pdf/2108.11569.pdf)
 * Instance-dependent Label-noise Learning under a Structural Causal Model. [[Paper]](https://arxiv.org/pdf/2109.02986.pdf)
 * Assessing the Quality of the Datasets by Identifying Mislabeled Samples. [[Paper]](https://arxiv.org/pdf/2109.05000.pdf)
+* Learning to Aggregate and Refine Noisy Labels for Visual Sentiment Analysis. [[Paper]](https://arxiv.org/abs/2109.07509)
+* Assessing the Quality of the Datasets by Identifying Mislabeled Samples. [[Paper]](https://arxiv.org/pdf/2109.05000.pdf)
 -----
 ## Papers & Code in 2020
 -----
