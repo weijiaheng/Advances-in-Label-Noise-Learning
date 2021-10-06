@@ -145,6 +145,8 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Assessing the Quality of the Datasets by Identifying Mislabeled Samples. [[Paper]](https://arxiv.org/pdf/2109.05000.pdf)
 * Learning to Aggregate and Refine Noisy Labels for Visual Sentiment Analysis. [[Paper]](https://arxiv.org/abs/2109.07509)
 * Assessing the Quality of the Datasets by Identifying Mislabeled Samples. [[Paper]](https://arxiv.org/pdf/2109.05000.pdf)
+* Robust Temporal Ensembling for Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2109.14563.pdf)
+* Knowledge Distillation with Noisy Labels for Natural Language Understanding. [[Paper]](https://arxiv.org/pdf/2109.10147.pdf)
 -----
 ## Papers & Code in 2020
 -----
