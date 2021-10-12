@@ -148,6 +148,8 @@ Radiography Abnormality Assessment. [[Paper]](https://arxiv.org/pdf/2104.05261.p
 * Robust Temporal Ensembling for Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2109.14563.pdf)
 * Knowledge Distillation with Noisy Labels for Natural Language Understanding. [[Paper]](https://arxiv.org/pdf/2109.10147.pdf)
 * Robustness and reliability when training with noisy labels. [[Paper]](https://arxiv.org/pdf/2110.03321.pdf)
+* Noisy Annotations Robust Consensual Collaborative Affect Expression Recognition. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021W/ABAW/papers/Gera_Noisy_Annotations_Robust_Consensual_Collaborative_Affect_Expression_Recognition_ICCVW_2021_paper.pdf)
+* Consistency Regularization Can Improve Robustness to Label Noise. [[Paper]](https://arxiv.org/pdf/2110.01242.pdf)
 -----
 ## Papers & Code in 2020
 -----
