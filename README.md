@@ -6,7 +6,7 @@
 
 - Content
   - [Papers & Code in 2021](#papers--code-in-2021)
-    - [NeurIPS 2021](#NeurIPS 2021)
+    - [NeurIPS 2021](#NeurIPS-2021)
     - [ICCV 2021](#ICCV-2021)
     - [ICML 2021](#ICML-2021)
     - [ICLR 2021](#ICLR-2021)
