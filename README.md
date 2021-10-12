@@ -35,7 +35,7 @@ Conference date:
 
 ### ICCV 2021 
 Conference date: 
-
+* Learning with Noisy Labels for Robust Point Cloud Segmentation. [[Paper]](https://shuquanye.com/PNAL_website/)[[Code]](https://github.com/pleaseconnectwifi/PNAL)
 -----
 
 ### ICML 2021
