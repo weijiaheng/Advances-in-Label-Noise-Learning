@@ -105,9 +105,10 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
 -----
 ### ArXiv 2021
-* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Understanding (Generalized) Label Smoothing when Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2106.04149)
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Understanding Generalized Label Smoothing when Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2106.04149)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) A Good Representation Detects Noisy Labels. [[Paper]](https://arxiv.org/pdf/2110.06283.pdf)
 * Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks. [[Paper]](https://arxiv.org/abs/2103.14749)[[Code]](https://github.com/cgnorthcutt/label-errors)
+* Double Descent in Adversarial Training: An Implicit Label Noise Perspective. [[Paper]](https://arxiv.org/pdf/2110.03135.pdf)
 * Estimating Instance-dependent Label-noise Transition Matrix using DNNs. [[Paper]](https://arxiv.org/abs/2105.13001)
 * A Theoretical Analysis of Learning with Noisily Labeled Data. [[Paper]](https://arxiv.org/abs/2104.04114)
 * Generalized Jensen-Shannon Divergence Loss for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2105.04522)
