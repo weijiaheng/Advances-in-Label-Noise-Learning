@@ -34,7 +34,6 @@ Conference date:
 -----
 
 ### ICCV 2021 
-Conference date: 
 * Learning with Noisy Labels for Robust Point Cloud Segmentation. [[Paper]](https://shuquanye.com/PNAL_website/)[[Code]](https://github.com/pleaseconnectwifi/PNAL)
 -----
 
@@ -105,6 +104,7 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
 -----
 ### ArXiv 2021
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations. [[Paper]](https://arxiv.org/abs/2110.12088)[[Code]](https://github.com/zwzhu-d/cifar-10-100n)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Understanding Generalized Label Smoothing when Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2106.04149)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) A Good Representation Detects Noisy Labels. [[Paper]](https://arxiv.org/pdf/2110.06283.pdf)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Demystifying How Self-Supervised Features Improve Training from Noisy Labels. [[Paper]](https://arxiv.org/pdf/2110.09022.pdf)[[code]](https://github.com/UCSC-REAL/SelfSup_NoisyLabel)
