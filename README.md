@@ -64,6 +64,10 @@ Conference date:
 
 ### IJCAI 2021 
 
+* Learning Implicitly with Noisy Data in Linear Arithmetic. [[Paper]](https://www.ijcai.org/proceedings/2021/0195.pdf)
+* Towards Understanding Deep Learning from Noisy Labels with Small-Loss Criterion. [[Paper]](https://www.ijcai.org/proceedings/2021/0340.pdf)
+* Modeling Noisy Hierarchical Types in Fine-Grained Entity Typing: A Content-Based Weighting Approach. [[Paper]](https://www.ijcai.org/proceedings/2019/0731.pdf) 
+* Multi-level Generative Models for Partial Label Learning with Non-random Label Noise. [[Paper]](https://www.ijcai.org/proceedings/2021/0449.pdf)
 -----
 
 ### ICML 2021
