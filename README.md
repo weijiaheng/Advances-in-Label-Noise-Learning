@@ -58,6 +58,7 @@ Conference date:
 * Label Noise SGD Provably Prefers Flat Global Minimizers. [[Paper]](https://arxiv.org/abs/2106.06530)
 * Instance-dependent Label-noise Learning under a Structural Causal Model. [[Paper]](https://arxiv.org/abs/2109.02986)
 * Combating Noise: Semi-supervised Learning by Region Uncertainty Quantification. [[Paper]](https://arxiv.org/abs/2111.00928)
+* DP-SSL: Towards Robust Semi-supervised Learning with A Few Labeled Samples. [[Paper]](https://arxiv.org/abs/2110.13740)
 
 -----
 
@@ -133,6 +134,10 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
 -----
 ### Other Conferences 2021
+* (WACV 2022) Towards a Robust Differentiable Architecture Search under Label Noise. [[Paper]](https://arxiv.org/abs/2110.12197)
+* (WACV 2022) Addressing out-of-distribution label noise in webly-labelled data. [[Paper]](https://arxiv.org/abs/2110.13699)[[Code]](https://github.com/PaulAlbert31/DSOS)
+* (BMVC 2021) PropMix: Hard Sample Filtering and Proportional MixUp for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2110.11809)[[Code]](https://github.com/filipe-research/PropMix.)
+* (IJCAI2021 Workshop) An Ensemble Noise-Robust K-fold Cross-Validation Selection Method for Noisy Labels. [[Paper]](https://arxiv.org/abs/2107.02347)
 -----
 ### ArXiv 2021
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations. [[Paper]](https://arxiv.org/abs/2110.12088)[[Code]](https://github.com/zwzhu-d/cifar-10-100n)
