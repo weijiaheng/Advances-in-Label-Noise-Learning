@@ -8,7 +8,7 @@
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2021](#papers--code-in-2021)
     - [NeurIPS 2021](#NeurIPS-2021)
-    - [ICCV 2021](#ICCV-2021)
+    - [IJCAI 2021](#IJCAI-2021)
     - [ICML 2021](#ICML-2021)
     - [ICLR 2021](#ICLR-2021)
     - [CVPR 2021](#CVPR-2021)
@@ -62,9 +62,8 @@ Conference date:
 
 -----
 
-### ICCV 2021 
-* Learning with Noisy Labels for Robust Point Cloud Segmentation. [[Paper]](https://shuquanye.com/PNAL_website/)[[Code]](https://github.com/pleaseconnectwifi/PNAL)
-* Learning with Noisy Labels via Sparse Regularization. [[Paper]](https://arxiv.org/abs/2108.00192)[[Code]]()
+### IJCAI 2021 
+
 -----
 
 ### ICML 2021
@@ -134,6 +133,8 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
 -----
 ### Other Conferences 2021
+* (ICCV 2021) Learning with Noisy Labels for Robust Point Cloud Segmentation. [[Paper]](https://shuquanye.com/PNAL_website/)[[Code]](https://github.com/pleaseconnectwifi/PNAL)
+* (ICCV 2021) Learning with Noisy Labels via Sparse Regularization. [[Paper]](https://arxiv.org/abs/2108.00192)
 * (WACV 2022) Towards a Robust Differentiable Architecture Search under Label Noise. [[Paper]](https://arxiv.org/abs/2110.12197)
 * (WACV 2022) Addressing out-of-distribution label noise in webly-labelled data. [[Paper]](https://arxiv.org/abs/2110.13699)[[Code]](https://github.com/PaulAlbert31/DSOS)
 * (BMVC 2021) PropMix: Hard Sample Filtering and Proportional MixUp for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2110.11809)[[Code]](https://github.com/filipe-research/PropMix.)
@@ -148,6 +149,19 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * Double Descent in Adversarial Training: An Implicit Label Noise Perspective. [[Paper]](https://arxiv.org/pdf/2110.03135.pdf)
 * Estimating Instance-dependent Label-noise Transition Matrix using DNNs. [[Paper]](https://arxiv.org/abs/2105.13001)
 * A Theoretical Analysis of Learning with Noisily Labeled Data. [[Paper]](https://arxiv.org/abs/2104.04114)
+* Learning from Multiple Annotators by Incorporating Instance Features. [[Paper]](https://arxiv.org/abs/2106.15146)
+* Learning from Multiple Noisy Partial Labelers. [[Paper]](https://arxiv.org/abs/2106.04530)
+* Instance Correction for Learning with Open-set Noisy Labels. [[Paper]](https://arxiv.org/abs/2106.00455)
+* Sample Selection with Uncertainty of Losses for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2106.00445)
+* Analysis of classifiers robust to noisy labels. [[Paper]](https://arxiv.org/abs/2106.00274)
+* NoiLIn: Do Noisy Labels Always Hurt Adversarial Training? [[Paper]](https://arxiv.org/abs/2105.14676)
+* Alleviating Noisy-label Effects in Image Classification via Probability Transition Matrix. [[Paper]](https://arxiv.org/abs/2110.08866)
+* Learning with Noisy Labels by Targeted Relabeling. [[Paper]](https://arxiv.org/abs/2110.08355)
+* Simple Attention Module based Speaker Verification with Iterative noisy label detection. [[Paper]](https://arxiv.org/abs/2110.06534)
+* Adaptive Early-Learning Correction for Segmentation from Noisy Annotations. [[Paper]](https://arxiv.org/abs/2110.03740)
+* Robust Deep Learning from Crowds with Belief Propagation. [[Paper]](https://arxiv.org/abs/2111.00734)
+* Adaptive Hierarchical Similarity Metric Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2111.00006)
+* Prototypical Classifier for Robust Class-Imbalanced Learning. [[Paper]](https://arxiv.org/abs/2110.11553)
 * A Survey of Label-noise Representation Learning: Past, Present and Future. [[Paper]](https://arxiv.org/pdf/2011.04406.pdf)
 * Noisy-Labeled NER with Confidence Estimation. [[Paper]](https://arxiv.org/pdf/2104.04318.pdf)[[Code]](https://github.com/liukun95/Noisy-NER-Confidence-Estimation)
 * Study Group Learning: Improving Retinal Vessel Segmentation Trained with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2103.03451.pdf)[[Code]](https://github.com/SHI-Labs/SGL-Retinal-Vessel-Segmentation)
