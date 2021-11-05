@@ -14,6 +14,7 @@
     - [CVPR 2021](#CVPR-2021)
     - [AISTATS 2021](#AISTATS-2021)
     - [AAAI 2021](#AAAI-2021)
+    - [Other Conferences 2021](#Other-Conferences-2021)
     - [ArXiv 2021](#ArXiv-2021)
   - [Papers & Code in 2020](#papers--code-in-2020)
     - [ICML 2020](#ICML-2020)
@@ -130,6 +131,8 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * Tackling Instance-Dependent Label Noise via a Universal Probabilistic Model. [[Paper]](https://niug1984.github.io/paper/wang_aaai21.pdf)
 * Learning with Group Noise. [[Paper]](https://gcatnjust.github.io/ChenGong/paper/wang_aaai21_2.pdf)
 * Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
+-----
+### Other Conferences 2021
 -----
 ### ArXiv 2021
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations. [[Paper]](https://arxiv.org/abs/2110.12088)[[Code]](https://github.com/zwzhu-d/cifar-10-100n)
