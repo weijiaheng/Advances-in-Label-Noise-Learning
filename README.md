@@ -44,7 +44,8 @@ Red Mini-ImageNet | N/A | [[Website]](https://ai.googleblog.com/2020/08/understa
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 
 ### NeurIPS 2021 
-Conference date: 
+Conference date:  
+* Open-set Label Noise Can Improve Robustness Against Inherent Label Noise. [[Paper]](https://arxiv.org/abs/2106.10891)[[Code]](https://github.com/hongxin001/ODNL)
 
 -----
 
