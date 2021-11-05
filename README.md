@@ -45,7 +45,14 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 
 ### NeurIPS 2021 
 Conference date:  
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Can Less be More? When Increasing-to-Balancing Label Noise Rates Considered Beneficial. [[Paper]](https://arxiv.org/abs/2107.05913#:~:text=We%20are%20primarily%20inspired%20by,fairness%20guarantees%20against%20label%20bias.)[[code]](https://github.com/UCSC-REAL/CanLessBeMore)
 * Open-set Label Noise Can Improve Robustness Against Inherent Label Noise. [[Paper]](https://arxiv.org/abs/2106.10891)[[Code]](https://github.com/hongxin001/ODNL)
+* Generalized Jensen-Shannon Divergence Loss for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2105.04522)
+* Understanding and Improving Early Stopping for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2106.15853)
+* How does a Neural Network's Architecture Impact its Robustness to Noisy Labels? 
+* FINE Samples for Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2102.11628v3.pdf)[[Code]](https://github.com/Kthyeon/FINE_official)
+* Label Noise SGD Provably Prefers Flat Global Minimizers. [[Paper]](https://arxiv.org/abs/2106.06530)
+* Instance-dependent Label-noise Learning under a Structural Causal Model. [[Paper]](https://arxiv.org/abs/2109.02986)
 
 -----
 
