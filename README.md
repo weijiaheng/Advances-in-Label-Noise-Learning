@@ -53,6 +53,7 @@ Conference date:
 * FINE Samples for Learning with Noisy Labels. [[Paper]](https://arxiv.org/pdf/2102.11628v3.pdf)[[Code]](https://github.com/Kthyeon/FINE_official)
 * Label Noise SGD Provably Prefers Flat Global Minimizers. [[Paper]](https://arxiv.org/abs/2106.06530)
 * Instance-dependent Label-noise Learning under a Structural Causal Model. [[Paper]](https://arxiv.org/abs/2109.02986)
+* Combating Noise: Semi-supervised Learning by Region Uncertainty Quantification. [[Paper]](https://arxiv.org/abs/2111.00928)
 
 -----
 
