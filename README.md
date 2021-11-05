@@ -37,6 +37,9 @@ Red Mini-ImageNet | N/A | [[Website]](https://ai.googleblog.com/2020/08/understa
  Animal-10N | [[Leaderboard]](https://paperswithcode.com/dataset/animal) | [[Website]](https://dm.kaist.ac.kr/datasets/animal-10n/)  | [[Paper]](http://proceedings.mlr.press/v97/song19b.html)
  Food-101N | N/A| [[Website]](https://github.com/kuanghuei/clean-net)  | [[Paper]](https://arxiv.org/pdf/1711.07131.pdf)
  Clothing1M  | [[Leaderboard]](https://paperswithcode.com/dataset/clothing1m) | [[Website]](https://github.com/Cysu/noisy_label)  | [[Paper]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Xiao_Learning_From_Massive_2015_CVPR_paper.pdf)
+ 
+ Simulation of label noise:
+ An Instance-Dependent Simulation Framework for Learning with Label Noise. [[Paper]](https://arxiv.org/abs/2107.11413)
 
 
 ## Papers & Code in 2021
@@ -59,6 +62,7 @@ Conference date:
 
 ### ICCV 2021 
 * Learning with Noisy Labels for Robust Point Cloud Segmentation. [[Paper]](https://shuquanye.com/PNAL_website/)[[Code]](https://github.com/pleaseconnectwifi/PNAL)
+* Learning with Noisy Labels via Sparse Regularization. [[Paper]](https://arxiv.org/abs/2108.00192)[[Code]]()
 -----
 
 ### ICML 2021
