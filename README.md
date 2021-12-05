@@ -48,7 +48,7 @@ Red Mini-ImageNet | N/A | [[Website]](https://ai.googleblog.com/2020/08/understa
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 
 ### NeurIPS 2021 
-Conference date:  
+Conference date: Dec, 6th -- Dec, 14th
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Can Less be More? When Increasing-to-Balancing Label Noise Rates Considered Beneficial. [[Paper]](https://arxiv.org/abs/2107.05913#:~:text=We%20are%20primarily%20inspired%20by,fairness%20guarantees%20against%20label%20bias.)[[Code]](https://github.com/UCSC-REAL/CanLessBeMore)
 * Open-set Label Noise Can Improve Robustness Against Inherent Label Noise. [[Paper]](https://arxiv.org/abs/2106.10891)[[Code]](https://github.com/hongxin001/ODNL)
 * Generalized Jensen-Shannon Divergence Loss for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2105.04522)[[Code]](https://github.com/ErikEnglesson/GJS)
