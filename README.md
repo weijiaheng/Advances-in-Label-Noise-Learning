@@ -66,11 +66,13 @@ Paper decision: Jan 18, 2022
 -----
 ### CVPR 2022
 Conference date: Jun 21, 2022 -- Jun 24, 2022
+
 Paper decision: Jan 24, 2022
 
 -----
 ### AISTATS 2022
 Conference date: Mar 28, 2022 -- Mar 30, 2022
+
 Paper decision: Jan 18, 2022
 
 -----
