@@ -55,19 +55,19 @@ Red Mini-ImageNet | N/A | [[Website]](https://ai.googleblog.com/2020/08/understa
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 
 -----
+### ICLR 2022
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations. [[Paper]](https://openreview.net/forum?id=TBWA6PLJZQm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions))[[Code]](https://github.com/zwzhu-d/cifar-10-100n)
+
+-----
 
 ### ICML 2022
 Conference date: Jul 17, 2022 -- Jul 23, 2022
 
 -----
-### ICLR 2022
-Paper decision: Jan 18, 2022
-
------
 ### CVPR 2022
 Conference date: Jun 21, 2022 -- Jun 24, 2022
 
-Paper decision: Jan 24, 2022
+Reviews Released: Jan 24, 2022
 
 -----
 ### AISTATS 2022
@@ -183,7 +183,6 @@ Conference date: Apr 13, 2021 -- Apr 15, 2021
 * (IJCAI2021 Workshop) An Ensemble Noise-Robust K-fold Cross-Validation Selection Method for Noisy Labels. [[Paper]](https://arxiv.org/abs/2107.02347)
 -----
 ### ArXiv 2021
-* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations. [[Paper]](https://arxiv.org/abs/2110.12088)[[Code]](https://github.com/zwzhu-d/cifar-10-100n)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Understanding Generalized Label Smoothing when Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2106.04149)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) A Good Representation Detects Noisy Labels. [[Paper]](https://arxiv.org/pdf/2110.06283.pdf)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Demystifying How Self-Supervised Features Improve Training from Noisy Labels. [[Paper]](https://arxiv.org/pdf/2110.09022.pdf)[[code]](https://github.com/UCSC-REAL/SelfSup_NoisyLabel)
