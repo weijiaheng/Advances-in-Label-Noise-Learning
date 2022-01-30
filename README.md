@@ -57,6 +57,11 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 -----
 ### ICLR 2022
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations. [[Paper]](https://openreview.net/forum?id=TBWA6PLJZQm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions))[[Code]](https://github.com/zwzhu-d/cifar-10-100n)
+* Resolving Training Biases via Influence-based Data Relabeling. [[Paper and Code]](https://openreview.net/forum?id=EskfH0bwNVn)
+* Contrastive Label Disambiguation for Partial Label Learning. [[Paper and Code]](https://openreview.net/forum?id=EhYjZy6e1gJ)
+* Sample Selection with Uncertainty of Losses for Learning with Noisy Labels. [[Paper and Code]](https://openreview.net/forum?id=xENf4QUL4LW)
+* An Information Fusion Approach to Learning with Instance-Dependent Label Noise. [[Paper and Code]](https://openreview.net/forum?id=ecH2FKaARUp)
+* Meta Discovery: Learning to Discover Novel Classes given Very Limited Data. [[Paper and Code]](https://openreview.net/forum?id=MEpKGLsY8f)
 
 -----
 
