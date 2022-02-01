@@ -63,9 +63,10 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 
 -----
 ### AISTATS 2022
-Conference date: Mar 28, 2022 -- Mar 30, 2022
-
-Paper decision: Jan 18, 2022
+* Robustness and reliability when training with noisy labels. [[Paper]](https://arxiv.org/abs/2110.03321#:~:text=We%20find%20that%20strictly%20proper,is%20an%20issue%20in%20practice.)
+* A Spectral Perspective of DNN Robustness to Label Noise.
+* Hardness of Learning a Single Neuron with Adversarial Label Noise.
+* Learning from Multiple Noisy Partial Labelers. [[Paper]](https://arxiv.org/abs/2106.04530)
 
 -----
 ### Other Conferences 2022
