@@ -7,9 +7,7 @@
 - Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2021](#papers--code-in-2022)
-    - [ICML 2022](#ICML-2022)
     - [ICLR 2022](#ICLR-2022)
-    - [CVPR 2022](#CVPR-2022)
     - [AISTATS 2022](#AISTATS-2022)
     - [Other Conferences 2022](#Other-Conferences-2022)
     - [ArXiv 2022](#ArXiv-2022)
@@ -62,17 +60,6 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 * Sample Selection with Uncertainty of Losses for Learning with Noisy Labels. [[Paper and Code]](https://openreview.net/forum?id=xENf4QUL4LW)
 * An Information Fusion Approach to Learning with Instance-Dependent Label Noise. [[Paper and Code]](https://openreview.net/forum?id=ecH2FKaARUp)
 * Meta Discovery: Learning to Discover Novel Classes given Very Limited Data. [[Paper and Code]](https://openreview.net/forum?id=MEpKGLsY8f)
-
------
-
-### ICML 2022
-Conference date: Jul 17, 2022 -- Jul 23, 2022
-
------
-### CVPR 2022
-Conference date: Jun 21, 2022 -- Jun 24, 2022
-
-Reviews Released: Jan 24, 2022
 
 -----
 ### AISTATS 2022
