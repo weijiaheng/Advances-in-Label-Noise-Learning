@@ -7,6 +7,7 @@
 - Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2021](#papers--code-in-2022)
+    - [CVPR 2022](#CVPR-2022)
     - [ICLR 2022](#ICLR-2022)
     - [AISTATS 2022](#AISTATS-2022)
     - [Other Conferences 2022](#Other-Conferences-2022)
@@ -53,6 +54,10 @@ Red Mini-ImageNet | N/A | [[Website]](https://ai.googleblog.com/2020/08/understa
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 
 -----
+### CVPR 2022
+TODO.
+
+-----
 ### ICLR 2022
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations. [[Paper]](https://openreview.net/forum?id=TBWA6PLJZQm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions))[[Code]](https://github.com/zwzhu-d/cifar-10-100n)
 * Resolving Training Biases via Influence-based Data Relabeling. [[Paper and Code]](https://openreview.net/forum?id=EskfH0bwNVn)
@@ -70,8 +75,27 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 
 -----
 ### Other Conferences 2022
+
 -----
 ### ArXiv 2022
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Identifiability of Label Noise Transition Matrix. [[Paper]](https://arxiv.org/abs/2202.02016)
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features. [[Paper]](https://arxiv.org/abs/2202.01273)
+* Constrained Instance and Class Reweighting for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2111.05428)
+* Do We Need to Penalize Variance of Losses for Learning with Label Noise?. [[Paper]](https://arxiv.org/abs/2201.12739)
+* Robust Training under Label Noise by Over-parameterization. [[Paper]](https://arxiv.org/abs/2202.14026)[[Code]](https://github.com/shengliu66/SOP)
+* On Learning Contrastive Representations for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2203.01785)
+* Learning from Label Proportions by Learning with Label Noise. [[Paper]](https://arxiv.org/abs/2203.02496)
+* Synergistic Network Learning and Label Correction for Noise-robust Image Classification. [[Paper]](https://arxiv.org/abs/2202.13472)
+* Transfer and Marginalize: Explaining Away Label Noise with Privileged Information. [[Paper]](https://arxiv.org/abs/2202.09244)
+* Convolutional Network Fabric Pruning With Label Noise. [[Paper]](https://arxiv.org/abs/2202.07268)
+* Learning to Bootstrap for Combating Label Noise. [[Paper]](https://arxiv.org/abs/2202.04291)
+* Learning with Neighbor Consistency for Noisy Labels. [[Paper]](https://arxiv.org/abs/2202.02200)
+* Investigating Why Contrastive Learning Benefits Robustness Against Label Noise. [[Paper]](https://arxiv.org/abs/2201.12498)
+* PARS: Pseudo-Label Aware Robust Sample Selection for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2201.10836)
+* GMM Discriminant Analysis with Noisy Label for Each Class. [[Paper]](https://arxiv.org/abs/2201.10242)
+* Learning with Label Noise for Image Retrieval by Selecting Interactions. [[Paper]](https://arxiv.org/abs/2112.10453)
+* Two Wrongs Don't Make a Right: Combating Confirmation Bias in Learning with Label Noise. [[Paper]](https://arxiv.org/abs/2112.02960)
+
 -----
 
 ## Papers & Code in 2021
