@@ -85,6 +85,7 @@ TODO.
 * Robust Training under Label Noise by Over-parameterization. [[Paper]](https://arxiv.org/abs/2202.14026)[[Code]](https://github.com/shengliu66/SOP)
 * On Learning Contrastive Representations for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2203.01785)
 * Learning from Label Proportions by Learning with Label Noise. [[Paper]](https://arxiv.org/abs/2203.02496)
+* Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data. [[Paper]](https://arxiv.org/abs/2202.05928#:~:text=11%20Feb%202022%5D-,Benign%20Overfitting%20without%20Linearity%3A%20Neural%20Network%20Classifiers%20Trained%20by,Descent%20for%20Noisy%20Linear%20Data&text=Abstract%3A%20Benign%20overfitting%2C%20the%20phenomenon,models%20trained%20with%20gradient%20descent.)
 * Synergistic Network Learning and Label Correction for Noise-robust Image Classification. [[Paper]](https://arxiv.org/abs/2202.13472)
 * Transfer and Marginalize: Explaining Away Label Noise with Privileged Information. [[Paper]](https://arxiv.org/abs/2202.09244)
 * Convolutional Network Fabric Pruning With Label Noise. [[Paper]](https://arxiv.org/abs/2202.07268)
