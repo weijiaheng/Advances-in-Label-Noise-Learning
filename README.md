@@ -55,7 +55,10 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 
 -----
 ### CVPR 2022
-TODO.
+* Selective-Supervised Contrastive Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2203.04181)[[Code]](https://github.com/ShikunLi/Sel-CL)
+* Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2203.07788)[[Code]](https://github.com/Yikai-Wang/SPR-LNL)
+* Large-Scale Pre-training for Person Re-identification with Noisy Labels. [[Paper]](http://arxiv.org/pdf/2203.16533)[[Code]](https://github.com/dengpanfu/luperson-nl)
+* Adaptive Early-Learning Correction for Segmentation from Noisy Annotations. [[Paper]](https://arxiv.org/abs/2110.03740)[[Code]](https://github.com/Kangningthu/ADELE)
 
 -----
 ### ICLR 2022
