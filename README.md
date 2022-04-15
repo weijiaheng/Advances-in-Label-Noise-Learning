@@ -4,8 +4,14 @@
 
 ---
 
-- Content
-  - [Open Challenge](#open--challenge)
+
+## Competition
+
+**1st Learning and Mining with Noisy Labels Challenge** (IJCAI 2022)[[website]](http://competition.noisylabels.com/)
+
+**June 15, 2022**: Deadline for participation registration 
+
+## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2021](#papers--code-in-2022)
     - [CVPR 2022](#CVPR-2022)
@@ -32,11 +38,6 @@
     - [ECCV 2020](#ECCV-2020)
     - [ArXiv 2020](#ArXiv-2020)
 ---
-
-## Open Challenge
-**1st Learning and Mining with Noisy Labels Challenge** (IJCAI 2022)[[website]](http://competition.noisylabels.com/)
-
-**June 15, 2022**: Deadline for participation registration 
 
 ## Benchmarks & Leaderboard
 Real-world noisy-label bechmarks:
