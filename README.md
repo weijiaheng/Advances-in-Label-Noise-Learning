@@ -14,6 +14,7 @@
 ## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2021](#papers--code-in-2022)
+    - [ICML 2022](#ICML-2022)
     - [CVPR 2022](#CVPR-2022)
     - [ICLR 2022](#ICLR-2022)
     - [AISTATS 2022](#AISTATS-2022)
@@ -59,6 +60,12 @@ Red Mini-ImageNet | N/A | [[Website]](https://ai.googleblog.com/2020/08/understa
 ## Papers & Code in 2022
 
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
+
+-----
+### ICML 2022 
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) To Smooth or Not? When Label Smoothing Meets Noisy Labels. [[Paper]](https://arxiv.org/abs/2106.04149)
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Detecting Corrupted Labels Without Training a Model to Predict. [[Paper]](https://arxiv.org/abs/2110.06283)
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features. [[Paper]](https://arxiv.org/abs/2202.01273)
 
 -----
 ### CVPR 2022
