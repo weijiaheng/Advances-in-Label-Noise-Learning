@@ -67,6 +67,7 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Detecting Corrupted Labels Without Training a Model to Predict. [[Paper]](https://arxiv.org/abs/2110.06283)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features. [[Paper]](https://arxiv.org/abs/2202.01273)
 * Robust Training under Label Noise by Over-parameterization. [[Paper]](https://arxiv.org/abs/2202.14026)[[Code]](https://github.com/shengliu66/SOP)
+* Estimating Instance-dependent Label-noise Transition Matrix using DNNs. [[Paper]](https://arxiv.org/abs/2105.13001)
 
 
 -----
