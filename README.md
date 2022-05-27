@@ -68,7 +68,11 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features. [[Paper]](https://arxiv.org/abs/2202.01273)
 * Robust Training under Label Noise by Over-parameterization. [[Paper]](https://arxiv.org/abs/2202.14026)[[Code]](https://github.com/shengliu66/SOP)
 * Estimating Instance-dependent Label-noise Transition Matrix using DNNs. [[Paper]](https://arxiv.org/abs/2105.13001)
-
+* Transfer and Marginalize: Explaining Away Label Noise with Privileged Information. [[Paper]](https://arxiv.org/abs/2202.09244)
+* Guaranteed Robust Deep Learning against Extreme Label Noise using Self-supervised Learning.
+* Robust Meta-learning with Sampling Noise and Label Noise via Eigen-Reptile.
+* Learning General Halfspaces with Adversarial Label Noise via Online Gradient Descent.
+* Guaranteed Robust Deep Learning against Extreme Label Noise using Self-supervised Learning.  
 
 -----
 ### CVPR 2022
