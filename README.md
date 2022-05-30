@@ -13,7 +13,7 @@
 
 ## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
-  - [Papers & Code in 2021](#papers--code-in-2022)
+  - [Papers & Code in 2022](#papers--code-in-2022)
     - [ICML 2022](#ICML-2022)
     - [CVPR 2022](#CVPR-2022)
     - [ICLR 2022](#ICLR-2022)
