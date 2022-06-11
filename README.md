@@ -103,8 +103,8 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 -----
 ### ArXiv 2022
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Identifiability of Label Noise Transition Matrix. [[Paper]](https://arxiv.org/abs/2202.02016)
-* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features. [[Paper]](https://arxiv.org/abs/2202.01273)
 * Constrained Instance and Class Reweighting for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2111.05428)
+* AUGLOSS: A Learning Methodology for Real-World Dataset Corruption. [[Paper]](https://arxiv.org/pdf/2206.02286.pdf)
 * Do We Need to Penalize Variance of Losses for Learning with Label Noise?. [[Paper]](https://arxiv.org/abs/2201.12739)
 * Robust Training under Label Noise by Over-parameterization. [[Paper]](https://arxiv.org/abs/2202.14026)[[Code]](https://github.com/shengliu66/SOP)
 * On Learning Contrastive Representations for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2203.01785)
