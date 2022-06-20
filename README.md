@@ -102,6 +102,7 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 
 -----
 ### ArXiv 2022
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) To Aggregate or Not? Learning with Separate Noisy Labels. [[Paper]](https://arxiv.org/abs/2206.07181)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Identifiability of Label Noise Transition Matrix. [[Paper]](https://arxiv.org/abs/2202.02016)
 * Constrained Instance and Class Reweighting for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2111.05428)
 * AUGLOSS: A Learning Methodology for Real-World Dataset Corruption. [[Paper]](https://arxiv.org/pdf/2206.02286.pdf)
