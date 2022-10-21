@@ -12,6 +12,7 @@
 ## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2022](#papers--code-in-2022)
+    - [ECCV 2022](#ECCV-2022)
     - [ICML 2022](#ICML-2022)
     - [CVPR 2022](#CVPR-2022)
     - [ICLR 2022](#ICLR-2022)
@@ -58,6 +59,24 @@ Red Mini-ImageNet | N/A | [[Website]](https://ai.googleblog.com/2020/08/understa
 ## Papers & Code in 2022
 
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
+
+-----
+### ECCV 2022 
+* Neighborhood Collective Estimation for Noisy Label Identification and Correction. [[Paper]](https://arxiv.org/abs/2208.03207)[[Code]](https://github.com/lijichang/LNL-NCE)
+* Teaching with Soft Label Smoothing for Mitigating Noisy Labels in Facial Expressions. [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720639.pdf)[[Code]](https://github.com/toharl/soft)
+* Learning from Multiple Annotator Noisy Labels via Sample-wise Label Fusion. [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840402.pdf)[[Code]](https://github.com/zhengqigao/Learning-from-Multiple-Annotator-Noisy-Labels)
+* Learn From All: Erasing Attention Consistency for Noisy Label Facial Expression Recognition. [[Paper]](https://arxiv.org/abs/2207.10299)[[Code]](https://github.com/zyh-uaiaaaa/Erasing-Attention-Consistency)
+* Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels. [[Paper]](https://arxiv.org/abs/2207.14476)[[Code]](https://github.com/uitrbn/TSCSI_IDN)
+* Learning with Noisy Labels by Efficient Transition Matrix Estimation to Combat Label Miscorrection. [[Paper]](https://arxiv.org/abs/2111.14932)[[Code]](https://github.com/hyperconnect/FasTEN)
+* Identifying Hard Noise in Long-Tailed Sample Distribution. [[Paper]](https://arxiv.org/abs/2207.13378)[[Code]](https://github.com/yxymessi/H2E-Framework)
+* Self-Filtering: A Noise-Aware Sample Selection for Label Noise with Confidence Penalization. [[Paper]](https://arxiv.org/abs/2208.11351)
+* BoundaryFace: A mining framework with noise label self-correction for Face Recognition. [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730092.pdf)[[Code]](https://gitee.com/swjtugx/classmate/tree/master/OurGroup/BoundaryFace)
+* Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets. [[Paper]](https://arxiv.org/abs/2207.01573)[[Code]](https://github.com/PaulAlbert31/SNCF)
+* WeLSA: Learning To Predict 6D Pose From Weakly Labeled Data Using Shape Alignment. [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680633.pdf)
+* Joint-Modal Label Denoising for Weakly-Supervised Audio-Visual Video Parsing. [[Paper]](https://arxiv.org/abs/2204.11573)[[Code]](https://github.com/MCG-NJU/JoMoLD)
+* PseCo: Pseudo Labeling and Consistency Training for Semi-Supervised Object Detection. [[Paper]](https://arxiv.org/abs/2203.16317)[[Code]](https://github.com/ligang-cs/PseCo)
+* Active label correction using robust parameter update and entropy propagation. [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810001.pdf)
+* A data-centric approach for improving ambiguous labels with combined semi-supervised classification and clustering. [[Paper]](https://arxiv.org/abs/2106.16209)[[Code]](https://github.com/Emprime/dc3)
 
 -----
 ### ICML 2022 
