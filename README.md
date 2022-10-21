@@ -9,8 +9,6 @@
 
 **1st Learning and Mining with Noisy Labels Challenge** (IJCAI 2022)[[website]](http://competition.noisylabels.com/)
 
-**June 15, 2022**: Deadline for participation registration 
-
 ## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2022](#papers--code-in-2022)
@@ -70,8 +68,8 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 * Estimating Instance-dependent Label-noise Transition Matrix using DNNs. [[Paper]](https://arxiv.org/abs/2105.13001)
 * Transfer and Marginalize: Explaining Away Label Noise with Privileged Information. [[Paper]](https://arxiv.org/abs/2202.09244)
 * Guaranteed Robust Deep Learning against Extreme Label Noise using Self-supervised Learning.
-* Robust Meta-learning with Sampling Noise and Label Noise via Eigen-Reptile.
-* Learning General Halfspaces with Adversarial Label Noise via Online Gradient Descent.
+* Robust Meta-learning with Sampling Noise and Label Noise via Eigen-Reptile. [[Paper]](https://arxiv.org/pdf/2206.01944v1.pdf)[[Code]](https://github.com/anfeather/eigen-reptile)
+* Learning General Halfspaces with Adversarial Label Noise via Online Gradient Descent. [[Paper]](https://proceedings.mlr.press/v162/diakonikolas22b.html)
 * Guaranteed Robust Deep Learning against Extreme Label Noise using Self-supervised Learning.  
 
 -----
