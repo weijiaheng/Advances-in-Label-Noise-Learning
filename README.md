@@ -12,6 +12,7 @@
 ## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2022](#papers--code-in-2022)
+    - [NeurIPS 2022](#NeurIPS-2022)
     - [ECCV 2022](#ECCV-2022)
     - [ICML 2022](#ICML-2022)
     - [CVPR 2022](#CVPR-2022)
@@ -59,6 +60,16 @@ Red Mini-ImageNet | N/A | [[Website]](https://ai.googleblog.com/2020/08/understa
 ## Papers & Code in 2022
 
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
+
+-----
+### NeurIPS 2022 
+* Estimating Noise Transition Matrix with Label Correlations for Noisy Multi-Label Learning . [[Paper]](https://openreview.net/forum?id=GwXrGy_vc8m)[[Code]](https://github.com/ShikunLi/Estimating_T_For_Noisy_Mutli-Labels)
+* Learning from Label Proportions by Learning with Label Noise. [[Paper & Code]](https://openreview.net/forum?id=cqyBfRwOTm1)
+* Class-Dependent Label-Noise Learning with Cycle-Consistency Regularization. [[Paper & Code]](https://openreview.net/forum?id=IvnoGKQuXi)
+* On Image Segmentation With Noisy Labels: Characterization and Volume Properties of the Optimal Solutions to Accuracy and Dice. [[Paper & Code]](https://openreview.net/forum?id=WDS1M0gsfXk)
+* Robustness to Label Noise Depends on the Shape of the Noise Distribution. [[Paper & Code]](https://openreview.net/forum?id=AlpR6dzKjfy)
+* Label Noise in Adversarial Training: A Novel Perspective to Study Robust Overfitting. [[Paper & Code]](https://openreview.net/forum?id=9_O9mTLYJQp)
+* SoftPatch: Unsupervised Anomaly Detection with Noisy Data. [[Paper & Code]](https://openreview.net/forum?id=pIYYJflkhZ)
 
 -----
 ### ECCV 2022 
