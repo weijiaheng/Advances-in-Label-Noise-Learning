@@ -1,6 +1,8 @@
 # Learning-with-Noisy-Labels
 
     A curated list of most recent papers & codes in Learning with Noisy Labels
+    
+    Some recent works about group-distributional robustness, label distribution shifts, are also included.
 
 ---
 
@@ -11,6 +13,8 @@
 
 ## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
+  - [Papers & Code in 2023](#papers--code-in-2023)
+    - [ICLR 2023](#ICLR-2023)
   - [Papers & Code in 2022](#papers--code-in-2022)
     - [NeurIPS 2022](#NeurIPS-2022)
     - [ECCV 2022](#ECCV-2022)
@@ -57,9 +61,45 @@ Red Mini-ImageNet | N/A | [[Website]](https://ai.googleblog.com/2020/08/understa
  An Instance-Dependent Simulation Framework for Learning with Label Noise. [[Paper]](https://arxiv.org/abs/2107.11413)
 
 
-## Papers & Code in 2022
+
 
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
+
+## Papers & Code in 2023
+
+-----
+### ICLR 2023 
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL)  Distributionally Robust Post-hoc Classifiers under Prior Shifts. [[Paper]](https://openreview.net/forum?id=3KUfbI9_DQE)[[Code]](https://github.com/weijiaheng/Drops)
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL)  Mitigating Memorization of Noisy Labels via Regularization between Representations. [[Paper \& Code]](https://openreview.net/forum?id=6qcYDVlVLnK)
+*  On the Edge of Benign Overfitting: Label Noise and Overparameterization Level. [[Paper \& Code]](https://openreview.net/forum?id=UrEwJebCxk)
+*  Deep Learning From Crowdsourced Labels: Coupled Cross-Entropy Minimization, Identifiability, and Regularization. [[Paper \& Code]](https://openreview.net/forum?id=_qVhsWyWB9)
+*  CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos. [[Paper \& Code]](https://openreview.net/forum?id=H-T3F0dMbyj)
+*  Learning to Segment from Noisy Annotations: A Spatial Correction Approach. [[Paper \& Code]](https://openreview.net/forum?id=Qc_OopMEBnC)
+*  Mutual Partial Label Learning with Competitive Label Noise. [[Paper \& Code]](https://openreview.net/forum?id=EUrxG8IBCrC)
+*  Memorization-Dilation: Modeling Neural Collapse Under Noise. [[Paper \& Code]](https://openreview.net/forum?id=cJWxqmmDL2b)
+*  Leveraging Unlabeled Data to Track Memorization . [[Paper \& Code]](https://openreview.net/forum?id=ORp91sAbzI)
+*  Quantifying and Mitigating the Impact of Label Errors on Model Disparity Metrics. [[Paper \& Code]](https://openreview.net/forum?id=RUzSobdYy0V)
+*  When Source-Free Domain Adaptation Meets Learning with Noisy Labels. [[Paper \& Code]](https://openreview.net/forum?id=u2Pd6x794I)
+*  A law of adversarial risk, interpolation, and label noise. [[Paper \& Code]](https://openreview.net/forum?id=0_TxFpAsEI)
+*  SoftMatch: Addressing the Quantity-Quality Tradeoff in Semi-supervised Learning. [[Paper \& Code]](https://openreview.net/forum?id=ymt1zQXBDiF)
+*  CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos. [[Paper \& Code]](https://openreview.net/forum?id=H-T3F0dMbyj)
+*  Does Decentralized Learning with Non-IID Unlabeled Data Benefit from Self Supervision?. [[Paper \& Code]](https://openreview.net/forum?id=2L9gzS80tA4)
+*  Label Propagation with Weak Supervision . [[Paper \& Code]](https://openreview.net/forum?id=aCuFa-RRqtI)
+*  Mitigating Dataset Bias by Using Per-Sample Gradient. [[Paper \& Code]](https://openreview.net/forum?id=7mgUec-7GMv)
+*  MCAL: Minimum Cost Human-Machine Active Labeling. [[Paper \& Code]](https://openreview.net/forum?id=1FxRPKrH8bw)
+*  Avoiding spurious correlations via logit correction. [[Paper \& Code]](https://openreview.net/forum?id=5BaqCFVh5qL)
+*  Bitrate-Constrained DRO: Beyond Worst Case Robustness To Unknown Group Shifts . [[Paper \& Code]](https://openreview.net/forum?id=2QzNuaRHn4Z)
+*  Pushing the Accuracy-Group Robustness Frontier with Introspective Self-play. [[Paper \& Code]](https://openreview.net/forum?id=MofT9KEF0kw)
+*  Towards Lightweight, Model-Agnostic and Diversity-Aware Active Anomaly Detection. [[Paper \& Code]](https://openreview.net/forum?id=-vKlt84fHs)
+*  Weakly Supervised Explainable Phrasal Reasoning with Neural Fuzzy Logic. [[Paper \& Code]](https://openreview.net/forum?id=Hu4r-dedqR0)
+*  Towards Addressing Label Skews in One-Shot Federated Learning. [[Paper \& Code]](https://openreview.net/forum?id=rzrqh85f4Sc)
+*  Instance-wise Batch Label Restoration via Gradients in Federated Learning. [[Paper \& Code]](https://openreview.net/forum?id=FIrQfNSOoTr)
+*  That Label's got Style: Handling Label Style Bias for Uncertain Image Segmentation. [[Paper \& Code]](https://openreview.net/forum?id=wZ2SVhOTzBX)
+*  Learning Hyper Label Model for Programmatic Weak Supervision. [[Paper \& Code]](https://openreview.net/forum?id=aCQt_BrkSjC)
+*  Rhino: Deep Causal Temporal Relationship Learning with History-dependent Noise. [[Paper \& Code]](https://openreview.net/forum?id=i_1rbq8yFWC)
+
+
+## Papers & Code in 2022
 
 -----
 ### NeurIPS 2022 
