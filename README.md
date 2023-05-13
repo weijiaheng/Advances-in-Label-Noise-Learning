@@ -12,6 +12,7 @@
 **1st Learning and Mining with Noisy Labels Challenge** (IJCAI 2022)[[website]](http://competition.noisylabels.com/)
 
 ## Content
+  - [Public Software](#public-software)
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2023](#papers--code-in-2023)
     - [ICLR 2023](#ICLR-2023)
@@ -43,6 +44,10 @@
     - [ECCV 2020](#ECCV-2020)
     - [ArXiv 2020](#ArXiv-2020)
 ---
+
+## Public Software
+**Docta-AI:** 
+An advanced data-centric AI platform that detects and rectifies issues in any data format (i.e., label error detection). [[Website]](https://github.com/Docta-ai/docta)
 
 ## Benchmarks & Leaderboard
 Real-world noisy-label bechmarks:
