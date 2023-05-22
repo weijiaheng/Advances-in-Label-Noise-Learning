@@ -137,6 +137,7 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) To Smooth or Not? When Label Smoothing Meets Noisy Labels. [[Paper]](https://arxiv.org/abs/2106.04149)[[Code]](https://github.com/UCSC-REAL/negative-label-smoothing)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Detecting Corrupted Labels Without Training a Model to Predict. [[Paper]](https://arxiv.org/abs/2110.06283)[[Code]](https://github.com/UCSC-REAL/SimiFeat)
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL) Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features. [[Paper]](https://arxiv.org/abs/2202.01273)
+* From Noisy Prediction to True Label: Noisy Prediction Calibration via Generative Model [[Paper]](https://arxiv.org/abs/2205.00690)[[Code]](https://github.com/BaeHeeSun/NPC)
 * Robust Training under Label Noise by Over-parameterization. [[Paper]](https://arxiv.org/abs/2202.14026)[[Code]](https://github.com/shengliu66/SOP)
 * Estimating Instance-dependent Label-noise Transition Matrix using DNNs. [[Paper]](https://arxiv.org/abs/2105.13001)
 * Transfer and Marginalize: Explaining Away Label Noise with Privileged Information. [[Paper]](https://arxiv.org/abs/2202.09244)
