@@ -17,6 +17,7 @@ An advanced data-centric AI platform that detects and rectifies issues in any da
 ## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2023](#papers--code-in-2023)
+    - [ICML 2023](#ICML-2023)
     - [CVPR 2023](#CVPR-2023)
     - [ICLR 2023](#ICLR-2023)
   - [Papers & Code in 2022](#papers--code-in-2022)
@@ -72,7 +73,19 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 ## Papers & Code in 2023
 
 -----
-### ICLR 2023 
+### ICML 2023 
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL)  Identifiability of Label Noise Transition Matrix. [[Paper]](https://proceedings.mlr.press/v202/liu23g)
+* Which is Better for Learning with Noisy Labels: The Semi-supervised Method or Modeling Label Noise? [[Paper]](https://proceedings.mlr.press/v202/yao23a)
+* Mitigating Memorization of Noisy Labels by Clipping the Model Prediction. [[Paper]](https://arxiv.org/abs/2212.04055)[[Code]](https://github.com/hongxin001/LogitClip)
+* CrossSplit: Mitigating Label Noise Memorization through Data Splitting. [[Paper]](http://proceedings.mlr.press/v202/kim23a/kim23a.pdf)[[Code]](https://github.com/SAITPublic/CrossSplit)
+* Understanding Self-Distillation in the Presence of Label Noise. [[Paper]](http://proceedings.mlr.press/v202/das23d/das23d.pdf)
+* RandomClassificationNoisedoesnotdefeatAllConvexPotentialBoosters IrrespectiveofModelChoice. [[Paper]](https://proceedings.mlr.press/v202/mansour23a.html)
+* Deep Clustering with Incomplete Noisy Pairwise Annotations: A Geometric Regularization Approach. [[Paper]](https://proceedings.mlr.press/v202/nguyen23d)
+* Delving into Noisy Label Detection with Clean Data. [[Paper]](https://proceedings.mlr.press/v202/yu23b.html)
+* When does Privileged information Explain Away Label Noise? [[Paper]](https://proceedings.mlr.press/v202/ortiz-jimenez23a)
+
+-----
+### CVPR 2023 
 *  Twin Contrastive Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2303.06930)[[Code]](https://github.com/Hzzone/TCL)
 *  Exploring High-Quality Pseudo Masks for Weakly Supervised Instance Segmentation. [[Paper]](https://arxiv.org/abs/2210.05174)[[Code]](https://github.com/hustvl/BoxTeacher)
 *  HandsOff: Labeled Dataset Generation with No Additional Human Annotations. [[Paper]](https://arxiv.org/pdf/2212.12645.pdf)[[Code]](https://github.com/austinxu87/handsoff/)
