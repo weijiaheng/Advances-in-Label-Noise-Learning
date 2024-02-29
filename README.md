@@ -22,6 +22,7 @@ An advanced data-centric AI platform that detects and rectifies issues in any da
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2023](#papers--code-in-2023)
     - [KDD 2023](#KDD-2023)
+    - [NeurIPS 2023](#NeurIPS-2023)
     - [ICML 2023](#ICML-2023)
     - [CVPR 2023](#CVPR-2023)
     - [ICLR 2023](#ICLR-2023)
@@ -88,6 +89,30 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 * Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers. [[Paper]](https://arxiv.org/abs/2306.14003)[[Code]](https://github.com/yuzhimanhua/FUTEX)
 
 -----
+### NeurIPS 2023 
+* The Pursuit of Human Labeling: A New Perspective on Unsupervised Learning. [[Paper]](https://openreview.net/forum?id=3GpIeVYw8X)[[Code]](https://brbiclab.epfl.ch/projects/hume/)
+* AQuA: A Benchmarking Tool for Label Quality Assessment. [[Paper]](https://openreview.net/forum?id=dhJ8VbcEtX)
+* Efficient Testable Learning of Halfspaces with Adversarial Label Noise. [[Paper]](https://openreview.net/forum?id=mIm0hsUUt1)
+* Neural Relation Graph: A Unified Framework for Identifying Label Noise and Outlier Data. [[Paper]](https://arxiv.org/abs/2301.12321)[[Code]](https://github.com/snu-mllab/Neural-Relation-Graph)
+* Robust Data Pruning under Label Noise via Maximizing Re-labeling Accuracy. [[Paper]](https://openreview.net/forum?id=xWCp0uLcpG)
+* Subclass-Dominant Label Noise: A Counterexample for the Success of Early Stopping. [[Paper]](https://openreview.net/forum?id=kR21XsZeAr)[[Code]](https://github.com/tmllab/2023_NeurIPS_SDN)
+* Label Correction of Crowdsourced Noisy Annotations with an Instance-Dependent Noise Transition Model. [[Paper]](https://openreview.net/forum?id=nFEQNYsjQO)
+* Scale-teaching: Robust Multi-scale Training for Time Series Classification with Noisy Labels. [[Paper]](https://openreview.net/forum?id=9D0fELXbrg)[[Code]](https://github.com/qianlima-lab/Scale-teaching)
+* SoTTA: Robust Test-Time Adaptation on Noisy Data Streams. [[Paper]](https://arxiv.org/abs/2310.10074)[[Code]](https://github.com/taeckyung/SoTTA)
+* Active Negative Loss Functions for Learning with Noisy Labels. [[Paper]](https://neurips.cc/virtual/2023/poster/71501)[[Code]](https://github.com/Virusdoll/Active-Negative-Loss)
+* Label-Retrieval-Augmented Diffusion Models for Learning from Noisy Labels. [[Paper]](https://arxiv.org/abs/2305.19518)[[Code]](https://github.com/puar-playground/LRA-diffusion)
+* Training shallow ReLU networks on noisy data using hinge loss: when do we overfit and is it benign? [[Paper]](https://arxiv.org/abs/2306.09955)
+* CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels. [[Paper]](https://openreview.net/forum?id=y50AnAbKp1)[[Code]](https://github.com/changwxx/CSOT-for-LNL)
+* Deep Insights into Noisy Pseudo Labeling on Graph Data. [[Paper]](https://openreview.net/forum?id=XhNlBvb4XV)
+* ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections. [[Paper]](https://openreview.net/forum?id=rJc5Lsn5QU)[[Code]](https://chhankyao.github.io/artic3d/)
+* ALIM: Adjusting Label Importance Mechanism for Noisy Partial Label Learning. [[Paper]](https://openreview.net/forum?id=PYSfn5xXEe)[[Code]](https://github.com/zeroQiaoba/ALIM)
+* Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping. [[Paper]](https://arxiv.org/abs/2305.11003)[[Code]](https://github.com/ChunmingHe/WS-SAM)
+* Label Poisoning is All You Need. [[Paper]](https://arxiv.org/abs/2310.18933)[[Code]](https://github.com/SewoongLab/FLIP)
+* SLaM: Student-Label Mixing for Distillation with Unlabeled Examples. [[Paper]](https://openreview.net/forum?id=N7tw0QXx3z)
+* IPMix: Label-Preserving Data Augmentation Method for Training Robust Classifiers. [[Paper]](https://openreview.net/forum?id=No52399wXA)
+* HQA-Attack: Toward High Quality Black-Box Hard-Label Adversarial Attack on Text. [[Paper]](https://openreview.net/forum?id=IOuuLBrGJR)[[Code]](https://github.com/HQA-Attack/HQAAttack-demo)
+
+-----
 ### ICML 2023 
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL)  Identifiability of Label Noise Transition Matrix. [[Paper]](https://proceedings.mlr.press/v202/liu23g)
 * Which is Better for Learning with Noisy Labels: The Semi-supervised Method or Modeling Label Noise? [[Paper]](https://proceedings.mlr.press/v202/yao23a)
@@ -98,6 +123,9 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 * Deep Clustering with Incomplete Noisy Pairwise Annotations: A Geometric Regularization Approach. [[Paper]](https://proceedings.mlr.press/v202/nguyen23d)
 * Delving into Noisy Label Detection with Clean Data. [[Paper]](https://proceedings.mlr.press/v202/yu23b.html)
 * When does Privileged information Explain Away Label Noise? [[Paper]](https://proceedings.mlr.press/v202/ortiz-jimenez23a)
+* Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective. [[Paper]](https://arxiv.org/abs/2306.13092)[[Code]](https://github.com/VILA-Lab/SRe2L)
+* Promises and Pitfalls of Threshold-based Auto-labeling. [[Paper]](https://openreview.net/forum?id=RUCFAKNDb2)
+* Accelerating Exploration with Unlabeled Prior Data. [[Paper]](https://openreview.net/forum?id=Itorzn4Kwf)
   
 -----
 ### CVPR 2023 
