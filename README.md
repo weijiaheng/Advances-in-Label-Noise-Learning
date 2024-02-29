@@ -12,7 +12,11 @@ An advanced data-centric AI platform that detects and rectifies issues in any da
 
 ## Competition
 
-**1st Learning and Mining with Noisy Labels Challenge** (IJCAI 2022)[[website]](http://competition.noisylabels.com/)
+**A Hands-on Tutorial for Learning with Noisy Labels** (IJCAI 2022)[[website]](http://competition.noisylabels.com/)
+
+## Tutorial
+
+**1st Learning and Mining with Noisy Labels Challenge** (IJCAI 2023)[[website]]([http://competition.noisylabels.com/](https://github.com/Docta-ai/IJCAI-tutorial))
 
 ## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
