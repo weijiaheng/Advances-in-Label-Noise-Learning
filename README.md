@@ -17,6 +17,7 @@ An advanced data-centric AI platform that detects and rectifies issues in any da
 ## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2023](#papers--code-in-2023)
+    - [KDD 2023](#KDD-2023)
     - [ICML 2023](#ICML-2023)
     - [CVPR 2023](#CVPR-2023)
     - [ICLR 2023](#ICLR-2023)
@@ -73,6 +74,16 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 ## Papers & Code in 2023
 
 -----
+### KDD 2023 
+* [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL)  To Aggregate or Not? Learning with Separate Noisy Labels. [[Paper]](https://arxiv.org/abs/2206.07181)
+* DyGen: Learning from Noisy Labels via Dynamics-Enhanced Generative Modeling. [[Paper]](https://dl.acm.org/doi/10.1145/3580305.3599318)[[Code]](https://github.com/night-chen/DyGen)
+* Robust Positive-Unlabeled Learning via Noise Negative Sample Self-correction. [[Paper]](https://dl.acm.org/doi/10.1145/3580305.3599491)
+* Neural-Hidden-CRF: A Robust Weakly-Supervised Sequence Labeler. [[Paper]](https://browse.arxiv.org/pdf/2309.05086.pdf)[[Code]](https://github.com/junchenzhi/Neural-Hidden-CRF)
+* Complementary Classifier Induced Partial Label Learning. [[Paper]](https://arxiv.org/abs/2305.09897)[[Code]](https://github.com/Chongjie-Si/PL-CL)
+* Partial-label Learning with Mixed Closed-Set and Open-Set Out-of-Candidate Examples. [[Paper]](https://arxiv.org/abs/2307.00553)
+* Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers. [[Paper]](https://arxiv.org/abs/2306.14003)[[Code]](https://github.com/yuzhimanhua/FUTEX)
+
+-----
 ### ICML 2023 
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL)  Identifiability of Label Noise Transition Matrix. [[Paper]](https://proceedings.mlr.press/v202/liu23g)
 * Which is Better for Learning with Noisy Labels: The Semi-supervised Method or Modeling Label Noise? [[Paper]](https://proceedings.mlr.press/v202/yao23a)
@@ -83,7 +94,7 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 * Deep Clustering with Incomplete Noisy Pairwise Annotations: A Geometric Regularization Approach. [[Paper]](https://proceedings.mlr.press/v202/nguyen23d)
 * Delving into Noisy Label Detection with Clean Data. [[Paper]](https://proceedings.mlr.press/v202/yu23b.html)
 * When does Privileged information Explain Away Label Noise? [[Paper]](https://proceedings.mlr.press/v202/ortiz-jimenez23a)
-
+  
 -----
 ### CVPR 2023 
 *  Twin Contrastive Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2303.06930)[[Code]](https://github.com/Hzzone/TCL)
