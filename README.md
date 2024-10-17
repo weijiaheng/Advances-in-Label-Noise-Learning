@@ -21,6 +21,7 @@ An advanced data-centric AI platform that detects and rectifies issues in any da
 ## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
   - [Papers & Code in 2023](#papers--code-in-2023)
+    - [ICCV 2023](#ICCV-2023)
     - [KDD 2023](#KDD-2023)
     - [NeurIPS 2023](#NeurIPS-2023)
     - [ICML 2023](#ICML-2023)
@@ -78,6 +79,25 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 
 ## Papers & Code in 2023
 
+-----
+### ICCV 2023 
+* PADDLES: Phase-Amplitude Spectrum Disentangled Early Stopping for Learning with Noisy Labels. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_PADDLES_Phase-Amplitude_Spectrum_Disentangled_Early_Stopping_for_Learning_with_Noisy_ICCV_2023_paper.pdf)[[Code]](https://github.com/CoderHHX/PADDLES)
+* Sample-wise Label Confidence Incorporation for Learning with Noisy Labels. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ahn_Sample-wise_Label_Confidence_Incorporation_for_Learning_with_Noisy_Labels_ICCV_2023_paper.pdf)
+* SILT: Shadow-Aware Iterative Label Tuning for Learning to Detect Shadows from Noisy Labels. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_SILT_Shadow-Aware_Iterative_Label_Tuning_for_Learning_to_Detect_Shadows_ICCV_2023_paper.pdf)[[Code]](https://github.com/hanyangclarence/SILT)
+* Graph Matching with Bi-level Noisy Correspondence. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Graph_Matching_with_Bi-level_Noisy_Correspondence_ICCV_2023_paper.pdf)[[Code]](https://github.com/XLearning-SCU/2023-ICCV-COMMON)
+* Learning from Noisy Pseudo Labels for Semi-Supervised Temporal Action Localization. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Learning_from_Noisy_Pseudo_Labels_for_Semi-Supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf)[[Code]](https://github.com/kunnxia/NPL)
+* Label-Noise Learning with Intrinsically Long-Tailed Data. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Label-Noise_Learning_with_Intrinsically_Long-Tailed_Data_ICCV_2023_paper.pdf)
+* Semi-Supervised Semantic Segmentation under Label Noise via Diverse Learning Groups. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Semi-Supervised_Semantic_Segmentation_under_Label_Noise_via_Diverse_Learning_Groups_ICCV_2023_paper.pdf)
+* LA-Net: Landmark-Aware Learning for Reliable Facial Expression Recognition under Label Noise. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_LA-Net_Landmark-Aware_Learning_for_Reliable_Facial_Expression_Recognition_under_Label_ICCV_2023_paper.pdf)
+* Holistic Label Correction for Noisy Multi-Label Classification. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Holistic_Label_Correction_for_Noisy_Multi-Label_Classification_ICCV_2023_paper.pdf)[[Code]](https://github.com/xiaoboxia/HLC)
+* When Noisy Labels Meet Long Tail Dilemmas: A Representation Calibration Method. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_When_Noisy_Labels_Meet_Long_Tail_Dilemmas_A_Representation_Calibration_ICCV_2023_paper.pdf)
+* Combating Noisy Labels with Sample Selection by Mining High-Discrepancy Examples. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Combating_Noisy_Labels_with_Sample_Selection_by_Mining_High-Discrepancy_Examples_ICCV_2023_paper.pdf)[[Code]](https://github.com/xiaoboxia/CoDis)
+* Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Why_Is_Prompt_Tuning_for_Vision-Language_Models_Robust_to_Noisy_ICCV_2023_paper.pdf)[[Code]](https://github.com/CEWu/PTNL)
+* RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_RankMatch_Fostering_Confidence_and_Consistency_in_Learning_with_Noisy_Labels_ICCV_2023_paper.pdf)
+* Learning from Noisy Data for Semi-Supervised 3D Object Detection. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Learning_from_Noisy_Data_for_Semi-Supervised_3D_Object_Detection_ICCV_2023_paper.pdf)[[Code]](https://github.com/zehuichen123/NoiseDet)
+* LNPL-MIL: Learning from Noisy Pseudo Labels for Promoting Multiple Instance Learning in Whole Slide Image. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_LNPL-MIL_Learning_from_Noisy_Pseudo_Labels_for_Promoting_Multiple_Instance_ICCV_2023_paper.pdf)[[Code]](https://github.com/szc19990412/LNPL-MIL)
+* BoMD: Bag of Multi-label Descriptors for Noisy Chest X-ray Classification. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_BoMD_Bag_of_Multi-label_Descriptors_for_Noisy_Chest_X-ray_Classification_ICCV_2023_paper.pdf)[[Code]](https://github.com/cyh-0/BoMD)
+  
 -----
 ### KDD 2023 
 * [[**UCSC REAL Lab**]](https://github.com/UCSC-REAL)  To Aggregate or Not? Learning with Separate Noisy Labels. [[Paper]](https://arxiv.org/abs/2206.07181)
