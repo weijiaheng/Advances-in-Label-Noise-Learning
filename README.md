@@ -84,6 +84,16 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 ## Papers & Code in 2024
 
 -----
+### ICML 2024 
+* Pi-DUAL: Using privileged information to distinguish clean from noisy labels. [[Paper]](https://proceedings.mlr.press/v235/wang24bb.html)
+* Mitigating Label Noise on Graphs via Topological Sample Selection. [[Paper]](https://proceedings.mlr.press/v235/wu24ae.html)
+* Self-cognitive Denoising in the Presence of Multiple Noisy Label Sources. [[Paper]](https://proceedings.mlr.press/v235/sun24o.html)
+* Provably Robust DPO: Aligning Language Models with Noisy Feedback. [[Paper]](https://proceedings.mlr.press/v235/ray-chowdhury24a.html)
+* Consistent Diffusion Meets Tweedie: Training Exact Ambient Diffusion Models with Noisy Data. [[Paper]](https://proceedings.mlr.press/v235/daras24a.html)
+* RIME: Robust Preference-based Reinforcement Learning with Noisy Preferences. [[Paper]](https://proceedings.mlr.press/v235/cheng24k.html)
+* FAFE: Immune Complex Modeling with Geodesic Distance Loss on Noisy Group Frames. [[Paper]](https://proceedings.mlr.press/v235/wu24g.html)
+
+-----
 ### ICLR 2024 
 * Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks. [[Paper]](https://openreview.net/forum?id=TjhUtloBZU)
 * Early Stopping Against Label Noise Without Validation Data. [[Paper]](https://openreview.net/forum?id=CMzF2aOfqp)
