@@ -20,6 +20,10 @@ An advanced data-centric AI platform that detects and rectifies issues in any da
 
 ## Content
   - [Benchmarks & Leaderboard](#benchmarks--leaderboard)
+  - [Papers & Code in 2024](#papers--code-in-2024)
+    - [NeurIPS 2024](#NeurIPS-2024)
+    - [ICML 2024](#ICML-2024)
+    - [ICLR 2024](#ICLR-2024)
   - [Papers & Code in 2023](#papers--code-in-2023)
     - [ICCV 2023](#ICCV-2023)
     - [KDD 2023](#KDD-2023)
@@ -76,6 +80,20 @@ Red Mini-ImageNet | N/A | [[Website]](https://ai.googleblog.com/2020/08/understa
 
 
 This repo focus on papers after 2019, for previous works, please refer to (https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
+
+## Papers & Code in 2024
+
+-----
+### ICLR 2024 
+* Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks. [[Paper]](https://openreview.net/forum?id=TjhUtloBZU)
+* Early Stopping Against Label Noise Without Validation Data. [[Paper]](https://openreview.net/forum?id=CMzF2aOfqp)
+* Label-Noise Robust Diffusion Models. [[Paper]](https://openreview.net/forum?id=HXWTXXtHNl)
+* Why is SAM Robust to Label Noise? [[Paper]](https://openreview.net/forum?id=3aZCPl3ZvR)
+* Local Graph Clustering with Noisy Labels. [[Paper]](https://openreview.net/forum?id=89A5c6enfc)
+* Dirichlet-based Per-Sample Weighting by Transition Matrix for Noisy Label Learning. [[Paper]](https://openreview.net/forum?id=A4mJuFRMN8)
+* MOFI: Learning Image Representations from Noisy Entity Annotated Images. [[Paper]](https://openreview.net/forum?id=QQYpgReSRk)
+* Robust Classification via Regression for Learning with Noisy Labels. [[Paper]](https://openreview.net/forum?id=wfgZc3IMqo)
+* TextField3D: Towards Enhancing Open-Vocabulary 3D Generation with Noisy Text Fields. [[Paper]](https://openreview.net/forum?id=WOiOzHG2zD)
 
 ## Papers & Code in 2023
 
