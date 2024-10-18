@@ -84,6 +84,25 @@ This repo focus on papers after 2019, for previous works, please refer to (https
 ## Papers & Code in 2024
 
 -----
+### Neurips 2024 
+* Learning the Latent Causal Structure for Modeling Label Noise. [[Paper]](https://nips.cc/virtual/2024/poster/93700)
+* Entity Alignment with Noisy Annotations from Large Language Models. [[Paper]](https://nips.cc/virtual/2024/poster/93478)
+* Noisy Label Learning with Instance-Dependent Outliers: Identifiability via Crowd Wisdom. [[Paper]](https://nips.cc/virtual/2024/poster/95831)
+* Vision-Language Models are Strong Noisy Label Detectors. [[Paper]](https://nips.cc/virtual/2024/poster/94056)
+* Benchmarking the Reasoning Robustness against Noisy Rationales in Chain-of-thought Prompting. [[Paper]](https://nips.cc/virtual/2024/poster/95956)
+* Learning from Noisy Labels via Conditional Distributionally Robust Optimization. [[Paper]](https://nips.cc/virtual/2024/poster/96820)
+*Sample Selection via Contrastive Fragmentation for Noisy Label Regression. [[Paper]](https://nips.cc/virtual/2024/poster/95898)
+* Label Noise: Ignorance Is Bliss. [[Paper]](https://nips.cc/virtual/2024/poster/94205)
+* CoSW: Conditional Sample Weighting for Smoke Segmentation with Label Noise. [[Paper]](https://nips.cc/virtual/2024/poster/95170)
+* Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment. [[Paper]](https://nips.cc/virtual/2024/poster/93906)
+* Curriculum Fine-tuning of Vision Foundation Model for Medical Image Classification Under Label Noise. [[Paper]](https://nips.cc/virtual/2024/poster/93198)[[Code]](https://github.com/gist-ailab/CUFIT)
+* NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise. [[Paper]](https://nips.cc/virtual/2024/poster/97611)
+* Noisy Ostracods: A Fine-Grained, Imbalanced Real-World Dataset for Benchmarking Robust Machine Learning and Label Correction Methods. [[Paper]](https://nips.cc/virtual/2024/poster/97733)
+* Robust Contrastive Multi-view Clustering against Dual Noisy Correspondence. [[Paper]](https://nips.cc/virtual/2024/poster/96528)
+* Perplexity-aware Correction for Robust Alignment with Noisy Preferences. [[Paper]](https://nips.cc/virtual/2024/poster/95367)
+* Information-theoretic Limits of Online Classification with Noisy Labels. [[Paper]](https://nips.cc/virtual/2024/poster/95650)
+
+-----
 ### ICML 2024 
 * Pi-DUAL: Using privileged information to distinguish clean from noisy labels. [[Paper]](https://proceedings.mlr.press/v235/wang24bb.html)
 * Mitigating Label Noise on Graphs via Topological Sample Selection. [[Paper]](https://proceedings.mlr.press/v235/wu24ae.html)
